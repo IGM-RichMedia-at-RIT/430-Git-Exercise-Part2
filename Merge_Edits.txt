@@ -12,11 +12,7 @@ My lines of text. My lines of text. My lines of text. My lines of text. My lines
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. 
 
 
-<<<<<<< HEAD
-My lines of text. My lines of text. Other lines of text.
-=======
-My lines of text. My lines of text. My Lines of text. 
->>>>>>> b7cb2d7b35c26b74fe822eef9567e95f7c290033
+My lines of text. My lines of text. Other lines of text. My Lines of text. 
 
 
 My lines of text. My lines of text. My lines of text. My lines of text. 
