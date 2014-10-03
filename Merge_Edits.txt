@@ -1,5 +1,8 @@
+drop table users
 Let's write a story:
 Once upon a time, there was a beautiful 
+It was so beautiful everyone died.
+The End.
 My. lines. of. text. ~#YOLOSWAG
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text.
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text.
