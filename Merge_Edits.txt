@@ -1,7 +1,7 @@
 
 Let's write a story:
-Once upon a time, there was a beautiful 
-My. lines. of. text. ~#YOLOSWAG
+0nce upon a time, there was a beautiful 
+My. lines. of. text. ~#Y0L0SWAG
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text.
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text.
 My lines of text. My lines of text. My text of lines. My lines of text. My lines of text. My lines of text.
@@ -30,19 +30,19 @@ My lines of text. My text of lines. My lines of text. My lines of text. My lines
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text.
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. 
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text.
-THE BEST LINE OF TEXT. EVARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR  WOOT 
-THIS LINE IS CLEARLY THE BEST. LOOK AT THAT FONT
-Have a sp00py day O:
-I WISH I WERE AN OSCAE WHOHFOWIHE EF:QNLWF
+THE BEST LINE 0F TEXT. EVARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR  W00T 
+THIS LINE IS CLEARLY THE BEST. L00K AT THAT F0NT
+Have a sp00py day 0:
+I WISH I WERE AN 0SCAE WH0HF0WIHE EF:QNLWF
 
 -------------------------------------- THE BEAUTIFUL LINE BREAK ----------------------------------------
 
 drop table users
 Let's write a story:
-Once upon a time, there was a beautiful 
+0nce upon a time, there was a beautiful 
 It was so beautiful everyone died.
 The End.
-My. lines. of. text. ~#YOLOSWAG
+My. lines. of. text. ~#Y0L0SWAG
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text.
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text.
 My lines of text. My lines of text. My text of lines. My lines of text. My lines of text. My lines of text.
@@ -71,6 +71,18 @@ My lines of text. My text of lines. My lines of text. My lines of text. My lines
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text.
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. 
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. To be continue...
-THE BEST LINE OF TEXT. EVARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR  WOOT 
-THIS LINE IS CLEARLY THE BEST. LOOK AT THAT FONT
-Have a sp00py day O:
+THE BEST LINE 0F TEXT. EVARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR  W00T 
+THIS LINE IS CLEARLY THE BEST. L00K AT THAT F0NT
+Have a sp00py day 0:
+
+   ▄█    █▄     ▄█        ▄▄▄▄███▄▄▄▄    ▄██████▄    ▄▄▄▄███▄▄▄▄   
+  ███    ███   ███      ▄██▀▀▀███▀▀▀██▄ ███    ███ ▄██▀▀▀███▀▀▀██▄ 
+  ███    ███   ███▌     ███   ███   ███ ███    ███ ███   ███   ███ 
+ ▄███▄▄▄▄███▄▄ ███▌     ███   ███   ███ ███    ███ ███   ███   ███ 
+▀▀███▀▀▀▀███▀  ███▌     ███   ███   ███ ███    ███ ███   ███   ███ 
+  ███    ███   ███      ███   ███   ███ ███    ███ ███   ███   ███ 
+  ███    ███   ███      ███   ███   ███ ███    ███ ███   ███   ███ 
+  ███    █▀    █▀        ▀█   ███   █▀   ▀██████▀   ▀█   ███   █▀  
+                                                                   
+_____________________________________________________________________
+
