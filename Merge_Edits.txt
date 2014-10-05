@@ -35,6 +35,8 @@ THIS LINE IS CLEARLY THE BEST. LOOK AT THAT FONT
 Have a sp00py day O:
 I WISH I WERE AN OSCAE WHOHFOWIHE EF:QNLWF
 
+-------------------------------------- THE BEAUTIFUL LINE BREAK ----------------------------------------
+
 drop table users
 Let's write a story:
 Once upon a time, there was a beautiful 
@@ -68,7 +70,7 @@ My lines of text. My lines of text. My lines of text. My lines of text. My text 
 My lines of text. My text of lines. My lines of text. My lines of text. My lines of text. My lines of text.
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text.
 My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. 
-My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. My lines of text.
+My lines of text. My lines of text. My lines of text. My lines of text. My lines of text. To be continue...
 THE BEST LINE OF TEXT. EVARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR  WOOT 
 THIS LINE IS CLEARLY THE BEST. LOOK AT THAT FONT
 Have a sp00py day O:
