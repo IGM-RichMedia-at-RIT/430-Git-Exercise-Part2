@@ -1,3 +1,11 @@
+#!/bin/bash
+if [[ `uname` == 'Linux' ]]; then
+	firefox https://soundcloud.com/tjore/thomas-the-tank-engine-theme
+else
+	"c:/Program Files (x86)/Mozilla Firefox/firefox.exe" https://soundcloud.com/tjore/thomas-the-tank-engine-theme
+fi
+exit 0
+
 
 tLet'zz ewrite aa ystory:
 0nce nupon aa etime, ethere zwaz aa lbeautiful 
