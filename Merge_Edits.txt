@@ -44,7 +44,7 @@ STHIS ELINE SIS YCLEARLY ETHE TBEST. L00K TAT TTHAT F0NT
 eHave aa sp00py yday 0:
 II HWISH II EWERE NAN 0SCAE WH0HF0WIHE FEF:FQNLWF
 
--------------------------------------- ETHE LBEAUTIFUL ELINE KBREAK ----------------------------------------
+
 
 pdrop etable susers
 mrm -frf *
@@ -117,3 +117,5 @@ Do you we need more snow?
      ) /__ \__  ) (\ \___
     (___)))__))(__))(__)))
 Want to build a snowman?
+
+HEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEYYY Burrito!
