@@ -1,8 +1,30 @@
-﻿#!/bin/bash
+﻿Hey check it out! I can use bash too! Also here's a picture of my computer. It's been running kind of slow lately.
+
+                      .___________.
+                      |           |
+       ___________.   |  |    /~\ |
+      / __   __  /|   | _ _   |_| |
+     / /:/  /:/ / |   !________|__!
+    / /:/  /:/ /  |            |
+   / /:/  /:/ /   |____________!
+  / /:/  /:/ /    |
+ / /:/  /:/ /     |
+/  ~~   ~~ /      |
+|~~~~~~~~~~|      |
+|    ::    |     /
+|    ==    |    /
+|    ::    |   /
+|    ::    |  /
+|    ::  @ | /
+!__________!/
+
+It's a toaster. Get it?
+
+#!/bin/bash
 if [[ `uname` == 'Linux' ]]; then
-	firefox https://soundcloud.com/tjore/thomas-the-tank-engine-theme
+	firefox https://www.youtube.com/watch?v=dQw4w9WgXcQ
 else
-	"c:/Program Files (x86)/Mozilla Firefox/firefox.exe" https://soundcloud.com/tjore/thomas-the-tank-engine-theme
+	"c:/Program Files (x86)/Mozilla Firefox/firefox.exe" https://www.youtube.com/watch?v=dQw4w9WgXcQ
 fi
 exit 0
 
