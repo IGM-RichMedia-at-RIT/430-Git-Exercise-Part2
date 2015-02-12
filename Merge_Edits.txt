@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 if [[ `uname` == 'Linux' ]]; then
 	firefox https://soundcloud.com/tjore/thomas-the-tank-engine-theme
 else
@@ -116,3 +116,4 @@ Do you we need more snow?
     \   ) \     ) \ \
      ) /__ \__  ) (\ \___
     (___)))__))(__))(__)))
+Want to build a snowman?
