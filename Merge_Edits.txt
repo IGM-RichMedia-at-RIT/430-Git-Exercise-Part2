@@ -105,6 +105,7 @@ Im going to sell the internet one day...
       \/
 Do you we need more snow?
 
+<<<<<<< HEAD
 
                      .".
                          /  |
@@ -125,3 +126,28 @@ Do you we need more snow?
         " \_  (__   (__       
             "-._,)--._,)
 0fd246ab2a53d0e946f06c06a5bf793e7b55d2df
+
+Do you want to build a snowman?
+           ___
+         _[___]_  _
+          ( " )  [_]
+      '--(`~:~`)--|'
+        / `-:-' \ |
+   __.--\   :   /--.
+.'`      '-----'    '-.._
+
+
+( \
+ \ \
+ / /                |\\
+/ /     .-`````-.   / ^`-.
+\ \    /         \_/  {|} `o
+ \ \  /   .---.   \\ _  ,--'
+  \ \/   /     \,  \( `^^^
+   \   \/\      (\  )
+    \   ) \     ) \ \
+     ) /__ \__  ) (\ \___
+    (___)))__))(__))(__)))
+Want to build a snowman?
+>>>>>>> 97712e5dd2d2bc07aee66ab3e438a7298bdf666c
+>>>>>>> c3ac7bda0fb8412e40218805378f91703480753c
