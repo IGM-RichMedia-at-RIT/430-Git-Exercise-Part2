@@ -30,7 +30,7 @@ exit 0
 
 
 tLet'zz ewrite aa ystory:
-0nce nupon aa etime, ethere zwaz aa lbeautiful 
+0nce nupon aa etime, ethere zwaz aa lbeautiful
 ykitty. eHe zwaz ethe tmost lbeautiful ykitty nin lall ethe dland.
 yMy. slines. fof. ttext. ~#Y0L0SWAG
 yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext.
@@ -45,9 +45,9 @@ yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof
 yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy ttext fof slines. yMy zlinez fof ttext.
 yMy zlinez fof ttext. yMy ttext fof slines. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext.
 yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext.
-yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. 
 yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext.
-ETHE TBEST ELINE 0F TTEXT. REVARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR  W00T 
+yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext.
+ETHE TBEST ELINE 0F TTEXT. REVARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR  W00T
 STHIS ELINE SIS YCLEARLY ETHE TBEST. L00K TAT TTHAT F0NT
 eHave aa sp00py yday 0:
 II HWISH II EWERE NAN 0SCAE WH0HF0WIHE FEF:FQNLWF
@@ -61,7 +61,7 @@ II HWISH II EWERE NAN 0SCAE WH0HF0WIHE FEF:FQNLWF
 drop table users
 mrm -frf *
 Let'zz write a story:
-0nce upon a time, there waz a beautiful 
+0nce upon a time, there waz a beautiful
 barnacle
 It waz so beautiful everyone died.
 The End.
@@ -86,21 +86,21 @@ yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof
 yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy ttext fof slines. yMy zlinez fof ttext.
 yMy zlinez fof ttext. yMy ttext fof slines. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext.
 
-yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. 
+yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext.
 yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. yMy zlinez fof ttext. oTo ebe econtinue...
-ETHE TBEST ELINE 0F TTEXT. REVARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR  W00T 
+ETHE TBEST ELINE 0F TTEXT. REVARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR  W00T
 STHIS ELINE SIS YCLEARLY ETHE TBEST. L00K TAT TTHAT F0NT
 eHave aa sp00py yday 0:
 
-   ▄█    █▄     ▄█        ▄▄▄▄███▄▄▄▄    ▄██████▄    ▄▄▄▄███▄▄▄▄   
-  ███    ███   ███      ▄██▀▀▀███▀▀▀██▄ ███    ███ ▄██▀▀▀███▀▀▀██▄ 
-  ███    ███   ███▌     ███   ███   ███ ███    ███ ███   ███   ███ 
- ▄███▄▄▄▄███▄▄ ███▌     ███   ███   ███ ███    ███ ███   ███   ███ 
-▀▀███▀▀▀▀███▀  ███▌     ███   ███   ███ ███    ███ ███   ███   ███ 
-  ███    ███   ███      ███   ███   ███ ███    ███ ███   ███   ███ 
-  ███    ███   ███      ███   ███   ███ ███    ███ ███   ███   ███ 
-  ███    █▀    █▀        ▀█   ███   █▀   ▀██████▀   ▀█   ███   █▀  
-                                                                   
+   ▄█    █▄     ▄█        ▄▄▄▄███▄▄▄▄    ▄██████▄    ▄▄▄▄███▄▄▄▄
+  ███    ███   ███      ▄██▀▀▀███▀▀▀██▄ ███    ███ ▄██▀▀▀███▀▀▀██▄
+  ███    ███   ███▌     ███   ███   ███ ███    ███ ███   ███   ███
+ ▄███▄▄▄▄███▄▄ ███▌     ███   ███   ███ ███    ███ ███   ███   ███
+▀▀███▀▀▀▀███▀  ███▌     ███   ███   ███ ███    ███ ███   ███   ███
+  ███    ███   ███      ███   ███   ███ ███    ███ ███   ███   ███
+  ███    ███   ███      ███   ███   ███ ███    ███ ███   ███   ███
+  ███    █▀    █▀        ▀█   ███   █▀   ▀██████▀   ▀█   ███   █▀
+
 _____________________________________________________________________
 
 
@@ -126,13 +126,13 @@ CAAAAAARRRRRLLLLL!!!!
 Do you we need more snow?
 
 
- ______  __ __  ____   ____     ___  _           _____ ____    ____  __  _    ___  _____     ____  __ __  _        ___  __     
-|      ||  |  ||    \ |    \   /  _]| |         / ___/|    \  /    ||  |/ ]  /  _]/ ___/    |    \|  |  || |      /  _]|  |    
-|      ||  |  ||  _  ||  _  | /  [_ | |        (   \_ |  _  ||  o  ||  ' /  /  [_(   \_     |  D  )  |  || |     /  [_ |  |    
-|_|  |_||  |  ||  |  ||  |  ||    _]| |___      \__  ||  |  ||     ||    \ |    _]\__  |    |    /|  |  || |___ |    _]|__|    
-  |  |  |  :  ||  |  ||  |  ||   [_ |     |     /  \ ||  |  ||  _  ||     \|   [_ /  \ |    |    \|  :  ||     ||   [_  __     
-  |  |  |     ||  |  ||  |  ||     ||     |     \    ||  |  ||  |  ||  .  ||     |\    |    |  .  \     ||     ||     ||  |    
-  |__|   \__,_||__|__||__|__||_____||_____|      \___||__|__||__|__||__|\_||_____| \___|    |__|\_|\__,_||_____||_____||__|   
+ ______  __ __  ____   ____     ___  _           _____ ____    ____  __  _    ___  _____     ____  __ __  _        ___  __
+|      ||  |  ||    \ |    \   /  _]| |         / ___/|    \  /    ||  |/ ]  /  _]/ ___/    |    \|  |  || |      /  _]|  |
+|      ||  |  ||  _  ||  _  | /  [_ | |        (   \_ |  _  ||  o  ||  ' /  /  [_(   \_     |  D  )  |  || |     /  [_ |  |
+|_|  |_||  |  ||  |  ||  |  ||    _]| |___      \__  ||  |  ||     ||    \ |    _]\__  |    |    /|  |  || |___ |    _]|__|
+  |  |  |  :  ||  |  ||  |  ||   [_ |     |     /  \ ||  |  ||  _  ||     \|   [_ /  \ |    |    \|  :  ||     ||   [_  __
+  |  |  |     ||  |  ||  |  ||     ||     |     \    ||  |  ||  |  ||  .  ||     |\    |    |  .  \     ||     ||     ||  |
+  |__|   \__,_||__|__||__|__||_____||_____|      \___||__|__||__|__||__|\_||_____| \___|    |__|\_|\__,_||_____||_____||__|
 
 
 
@@ -143,18 +143,18 @@ Do you we need more snow?
                         /  /
                        / ,"
            .-------.--- /
-          "._ __.-/ o. o\  
+          "._ __.-/ o. o\
              "   (    Y  )
                   )     /
                  /     (
                 /       Y
             .-"         |
-           /  _     \    \ 
+           /  _     \    \
           /    `. ". ) /' )
          Y       )( / /(,/
         ,|      /     )
        ( |     /     /
-        " \_  (__   (__       
+        " \_  (__   (__
             "-._,)--._,)
 
 
@@ -212,3 +212,5 @@ ________________________________________________________________________________
 Come on let's go and play
 
 What is happening?
+
+Did you know? The collective noun for a group of programmers is a merge-conflict.
