@@ -61,11 +61,7 @@ STHIS ELINE SIS YCLEARLY ETHE TBEST. L00K TAT TTHAT F0NT
 eHave a sp00py yday 0:
 I HWISH I EWERE NAN 0SCAE WH0HF0WIHE FEF:FQNLWF
 
-<<<<<<< HEAD
-
-=======
 -------------------------------------- THE BEAUTIFUL LINE BREAK ----------------------------------------
->>>>>>> 1bf6f7e79dbea6f0dcc5cae09d6b9dcf7046b67b
 
 drop table users
 mrm -frf *
