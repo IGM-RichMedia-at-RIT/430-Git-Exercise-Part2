@@ -1,149 +1,189 @@
 
-                                                            .  .                
-              .. D .                                        .Z..                
-            ...IMM:..    ...~.                  ..=..      .=MMZ..     
-                     
-            ..MN.MM .    ., .                    ....     ..MM.NM               
-          . $M:..MMM. . ... .      
+                                                            .  .
+              .. D .                                        .Z..
+            ...IMM:..    ...~.                  ..=..      .=MMZ..
+
+            ..MN.MM .    ., .                    ....     ..MM.NM
+          . $M:..MMM. . ... .
                                       ^ ^
                                       (O-O)  -hoot
                                       (---)
                                       -"-"-
-                                      [|]          . :..  ..MMN..=M?.            
-        ...MNZM8N ~MM. ..=..~                   ..+..7...,MM:.M?M?MM..      
-            
-        ..M$M$,,M:.:MMN.M..=.    ...       .  .  ..$..N.MMM:.~M,.ZM?M  .        
-        ~M,M .,DD,MMM~$:~..7..   .~.      ..+..   .~..?,I=MMM~ZN,. M:M,.        
-      .,M.M.DMM8:~MMMM.+~M~ .....N +.     .~.M. ....~M.Z MMMMI.8MM8 M,M,.       
-    ..,M=M?M... .N...M$M. N$M, ~MM.I .   . 8 MMI.=M88. M8D...N....,M~M:M..      
-    ..M,NM$,NONMD,...D+M. M..ONMIMM,~. . .,:MM?M8?..M..M7$....NMDON:8NM,M...    
-   ..M.MN:::8M,.:O..~8+M. D.:O~.OM,~MMM.MMN=:M7 =+..O..M$II .M..:MO::=OM~M .  
-     
-   .M7~NMMM.+ M? M..M7OMM.,NM,+.MM= M.M N.M.?MD.I.MN. MMN=M.,M :M.?.MMMN:8M     
- ..:MD:I M...7MMMMMM.,M:MDN$N.$D..MMM.D O MMN..O?.M8MNM~M,.MMMMMMZ..,M,7~NM+.   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                What is suppose to be here?
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- ....M,ON~OMMNOM...MZ.M~NMM,8MM.MMMNM.I ~ MNMMM.MM7.MMZ,M.DM. .MONMMIIO?:M..    
-    ZNM,N$MI. .?MMMMM:,M.DM.. M....:M..  .M+....M...MO.M.?MMMMM7.. +M=M:MMI.    
- ...M~+M ,?Z.:,..MMNMM.~M.?? +:.. O.M...,.M.7. .=,.~~.M?.MMNMM. =..Z?, M7,M     
- . :D.NMD+M$.+NDM+ .:$D:ZM...MM:.NM.M.M:M.M.MD.,MN...M?,O$:..$MMM,.+N+NMD.M+    
- 
- 
- 
- 
- 
- 
- 
- 
-  .MM:Z~M,M.D..M=.I.M= .D7MM,:,M:,~$M.::,.M+,,,M.=,MMOO..=M.Z.IM..O.M,M,$=MM.   
-   ~M:M MN7=. 8M.$M$ M...8=,==:.D..MM.$:+.OM..$.~+?~?I.. M +M+.MZ .78$M.M.8:.   
-  ..OM,:ZM..NMM..M$. M . DMM..  .$.~I.?:~.=?.+.   .MMZ. .M..8M .MMN:,M8+:ND     
-   ..M.$:M M.MM..M ..~N,.M. N...  7.:.=:,...I.. . D.,M..M:.  M..MD,M.M+8.M:.    
-   :,+.M:M:..OM. N..ON=~D:, ...   .=. ::..::..  ,...~,N~?O$ .M..MI.,.M.M.$ =    
- ..~+..M+8Z..MM..$ .NO+....  .,.  . ...: ...  .. ...:...7+D..O..MN..IM:M..~I    
- 
- 
- 
-  ..$..MI$7N7MM...8M:.=M...           .:..          ...M?.~M$  .MM?D$D=M..I.    
- .  Z..M?$:M=MM. MMMMMI.M..            :            ..D.+MMMMM..MM+M~D~M..7.    
-    I..M~8 D .M N.?MM.,Z Z            .: .           ?.D.:MM~.M.M  O M,M..?     
-    :..M.M.ZD,MD.M$MMMM:M.,            :..          ,.D,MMMM$M.NM.N+.M.M..:.    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+                                      [|]          . :..  ..MMN..=M?.
+        ...MNZM8N ~MM. ..=..~                   ..+..7...,MM:.M?M?MM..
+
+        ..M$M$,,M:.:MMN.M..=.    ...       .  .  ..$..N.MMM:.~M,.ZM?M  .
+        ~M,M .,DD,MMM~$:~..7..   .~.      ..+..   .~..?,I=MMM~ZN,. M:M,.
+      .,M.M.DMM8:~MMMM.+~M~ .....N +.     .~.M. ....~M.Z MMMMI.8MM8 M,M,.
+    ..,M=M?M... .N...M$M. N$M, ~MM.I .   . 8 MMI.=M88. M8D...N....,M~M:M..
+    ..M,NM$,NONMD,...D+M. M..ONMIMM,~. . .,:MM?M8?..M..M7$....NMDON:8NM,M...
+   ..M.MN:::8M,.:O..~8+M. D.:O~.OM,~MMM.MMN=:M7 =+..O..M$II .M..:MO::=OM~M .
+
+   .M7~NMMM.+ M? M..M7OMM.,NM,+.MM= M.M N.M.?MD.I.MN. MMN=M.,M :M.?.MMMN:8M
+ ..:MD:I M...7MMMMMM.,M:MDN$N.$D..MMM.D O MMN..O?.M8MNM~M,.MMMMMMZ..,M,7~NM+.
+
+
+
+
+
+
+
+
+
+
+                What is the meaning of life?
+
+                quu..__
+ $$$b  `---.__
+  "$$b        `--.                          ___.---uuudP
+   `$$b           `.__.------.__     __.---'      $$$$"              .
+     "$b          -'            `-.-'            $$$"              .'|
+       ".                                       d$"             _.'  |
+         `.   /                              ..."             .'     |
+           `./                           ..::-'            _.'       |
+            /                         .:::-'            .-'         .'
+           :                          ::''\          _.'            |
+          .' .-.             .-.           `.      .'               |
+          : /'$$|           .@"$\           `.   .'              _.-'
+         .'|$u$$|          |$$,$$|           |  <            _.-'
+         | `:$$:'          :$$$$$:           `.  `.       .-'
+         :                  `"--'             |    `-.     \
+        :##.       ==             .###.       `.      `.    `\
+        |##:                      :###:        |        >     >
+        |#'     `..'`..'          `###'        x:      /     /
+         \                                   xXX|     /    ./
+          \                                xXXX'|    /   ./
+          /`-.                                  `.  /   /
+         :    `-  ...........,                   | /  .'
+         |         ``:::::::'       .            |<    `.
+         |             ```          |           x| \ `.:``.
+         |                         .'    /'   xXX|  `:`M`M':.
+         |    |                    ;    /:' xXXX'|  -'MMMMM:'
+         `.  .'                   :    /:'       |-'MMMM.-'
+          |  |                   .'   /'        .'MMM.-'
+          `'`'                   :  ,'          |MMM<
+            |                     `'            |tbap\
+             \                                  :MM.-'
+              \                 |              .''
+               \.               `.            /
+                /     .:::::::.. :           /
+               |     .:::::::::::`.         /
+               |   .:::------------\       /
+              /   .''               >::'  /
+              `',:                 :    .'
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ....M,ON~OMMNOM...MZ.M~NMM,8MM.MMMNM.I ~ MNMMM.MM7.MMZ,M.DM. .MONMMIIO?:M..
+    ZNM,N$MI. .?MMMMM:,M.DM.. M....:M..  .M+....M...MO.M.?MMMMM7.. +M=M:MMI.
+ ...M~+M ,?Z.:,..MMNMM.~M.?? +:.. O.M...,.M.7. .=,.~~.M?.MMNMM. =..Z?, M7,M
+ . :D.NMD+M$.+NDM+ .:$D:ZM...MM:.NM.M.M:M.M.MD.,MN...M?,O$:..$MMM,.+N+NMD.M+
+
+
+
+
+
+
+
+
+  .MM:Z~M,M.D..M=.I.M= .D7MM,:,M:,~$M.::,.M+,,,M.=,MMOO..=M.Z.IM..O.M,M,$=MM.
+   ~M:M MN7=. 8M.$M$ M...8=,==:.D..MM.$:+.OM..$.~+?~?I.. M +M+.MZ .78$M.M.8:.
+  ..OM,:ZM..NMM..M$. M . DMM..  .$.~I.?:~.=?.+.   .MMZ. .M..8M .MMN:,M8+:ND
+   ..M.$:M M.MM..M ..~N,.M. N...  7.:.=:,...I.. . D.,M..M:.  M..MD,M.M+8.M:.
+   :,+.M:M:..OM. N..ON=~D:, ...   .=. ::..::..  ,...~,N~?O$ .M..MI.,.M.M.$ =
+ ..~+..M+8Z..MM..$ .NO+....  .,.  . ...: ...  .. ...:...7+D..O..MN..IM:M..~I
+
+
+
+  ..$..MI$7N7MM...8M:.=M...           .:..          ...M?.~M$  .MM?D$D=M..I.
+ .  Z..M?$:M=MM. MMMMMI.M..            :            ..D.+MMMMM..MM+M~D~M..7.
+    I..M~8 D .M N.?MM.,Z Z            .: .           ?.D.:MM~.M.M  O M,M..?
+    :..M.M.ZD,MD.M$MMMM:M.,            :..          ,.D,MMMM$M.NM.N+.M.M..:.
+
+
+
+
+
+
+
+
+
+
+
+
       Huh.. what is this suppose to be?
-    
-    
-          
-       D.M.OM7M?.=M:.MO?+$.           .~..         ..+$7ND.,N$.ZM7M?.M N.       
-      .~.N DM,MMIN.M.DM O..           .~..         ...$ MZ.M OZMM.M8,O I.       
-      . .,+~M.D,M.,8..MZ N.           .~..          .D.?N..N:.M:M D?7,,         
-       .$.M.7.O ZM .?..M....          .=.            .:M..$ .M?.I.=.M.Z.   
-            
-        ..:. ,$NMMM..?.,M.            .~             .M: 7..MMMN++ .....      
-        
-        
-          
-         ..N.N.M$ DM. ..M?.           ..             ZN....MO OM.8.D....        
-          .. . M Z.,N...,M                        ...M.. .M~ 7,M..              
-          ..+.Z.M ..=M ..M~                         ?D...M:  .M.$.=..     
-                
-            .. .,D  .78. .M.                       .M. .N=...M ,..              
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-               ..?.. .M...M .                       M...N...::.~..              
-              . . 7  .7I..O?..                    .:7..~=. .O...                
-                . D.. ?=..=N.                     .8,. ::  .N                   
-                 .I.. 7.  .M.                     .M    ? ..$.                  
-                ....  N.. :N..                    .M   .D. ..                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                   
-                     ..  .=O..                    .?,. ., .                     
-                     ,.  .Z~.                      ,I.  ..                      
-                    . .. .M.                       .M.   .                      
-                        ..N.                       .M..                         
-                       ..M                         ..M.                         
-                       .=7                           8: .                       
-                       .D..                          .M..                       
-                     ..N.                           ...M.                       
-                     .N..                              .8..                     
-                   ..O  .                              . $.                     
-                   .7.                                  . 7                     
-                   ,.                                    ..,..    
+
+
+
+       D.M.OM7M?.=M:.MO?+$.           .~..         ..+$7ND.,N$.ZM7M?.M N.
+      .~.N DM,MMIN.M.DM O..           .~..         ...$ MZ.M OZMM.M8,O I.
+      . .,+~M.D,M.,8..MZ N.           .~..          .D.?N..N:.M:M D?7,,
+       .$.M.7.O ZM .?..M....          .=.            .:M..$ .M?.I.=.M.Z.
+
+        ..:. ,$NMMM..?.,M.            .~             .M: 7..MMMN++ .....
+
+
+
+         ..N.N.M$ DM. ..M?.           ..             ZN....MO OM.8.D....
+          .. . M Z.,N...,M                        ...M.. .M~ 7,M..
+          ..+.Z.M ..=M ..M~                         ?D...M:  .M.$.=..
+
+            .. .,D  .78. .M.                       .M. .N=...M ,..
+
+
+
+
+
+
+
+
+
+
+               ..?.. .M...M .                       M...N...::.~..
+              . . 7  .7I..O?..                    .:7..~=. .O...
+                . D.. ?=..=N.                     .8,. ::  .N
+                 .I.. 7.  .M.                     .M    ? ..$.
+                ....  N.. :N..                    .M   .D. ..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ..  .=O..                    .?,. ., .
+                     ,.  .Z~.                      ,I.  ..
+                    . .. .M.                       .M.   .
+                        ..N.                       .M..
+                       ..M                         ..M.
+                       .=7                           8: .
+                       .D..                          .M..
+                     ..N.                           ...M.
+                     .N..                              .8..
+                   ..O  .                              . $.
+                   .7.                                  . 7
+                   ,.                                    ..,..
