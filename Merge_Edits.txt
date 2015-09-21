@@ -1,4 +1,4 @@
-﻿
+
 	 ____  _      ____    _     _  ____    _      ____  _      _____   _  ____
 	/  _ \/ \  /|/  _ \  / \ /|/ \/ ___\  / \  /|/  _ \/ \__/|/  __/  / \/ ___\
 	| / \|| |\ ||| | \|  | |_||| ||    \  | |\ ||| / \|| |\/|||  \    | ||    \
@@ -374,13 +374,13 @@ EXTERMINATE! EXTERMINATE!
 ░░░█░░░▀░░░░▀▄░░░░░░░░░░▄▀░░░
 ░░▐▌░░░░░░░░░░▀▄░░░░░░▄▀░░░░░
 ░▄▀░░░▄▀░░░░░░░░▀▀▀▀█▀░░░░░░░
-▀░░░▄▀░░░░░░░░░░▀░░░▀▀▀▀▄▄▄▄▄
-that feel when doing hw the night before
-
-MMMMMMMMMMMMMMMMMMMMdymNNmmmmmmmmmddmmmmmNMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMNmsdmdmmmmmmmmmmmmmmmmmmmmmmNMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMhdoosddmmmmddddddddddmmmmmmNNNNmmNNhMMMMMMMMMMMM
-MMMMMMMMMMMsdoyddddddddhysossyysyyhdmmmNNNNNNmmdmMMMMMMMMMMM
+▀░░░▄▀░░░░░░░░░░▀░░░▀▀▀▀▄▄▄▄▄                                  _________________________
+that feel when doing hw the night before                      |                         |
+                                                              | I WORK AT IBM EVERYBODY |
+MMMMMMMMMMMMMMMMMMMMdymNNmmmmmmmmmddmmmmmNMMMMMMMMMMMMMMMMMM  |_________________________|
+MMMMMMMMMMMMMMMNmsdmdmmmmmmmmmmmmmmmmmmmmmmNMMMMMMMMMMMMMMMM  /
+MMMMMMMMMMMMhdoosddmmmmddddddddddmmmmmmNNNNmmNNhMMMMMMMMMMMM /
+MMMMMMMMMMMsdoyddddddddhysossyysyyhdmmmNNNNNNmmdmMMMMMMMMMMM/
 MMMMMMMMMd++yyhhdhddddhyyss++++oosyhddmmmmmmmmmmmmNMMMMMMMMM
 MMMMMMMMd/+yssssyyhhhhyhhyo++o+oossyhdddddmdmmmmmmmNMMMMMMMM
 MMMMMMMdyoo+ooso+oo++/://+oo++/+osssossssyhhdddddddmMMMMMMMM
