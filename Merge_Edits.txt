@@ -30,17 +30,16 @@
  _       _________ _        _        _______  _______     _______ _________          _______  _______ 
 | \    /\\__   __/( \      ( \      (  ____ \(  ____ )   (  ____ \\__   __/|\     /|(  ____ \(  ____ \
 |  \  / /   ) (   | (      | (      | (    \/| (    )|   | (    \/   ) (   | )   ( || (    \/| (    \/
-|  (_/ /    | |   | |      | |      | (__    | (____)|   | (_____    | |   | |   | || (__    | (__    
-|   _ (     | |   | |      | |      |  __)   |     __)   (_____  )   | |   | |   | ||  __)   |  __)   
-|  ( \ \    | |   | |      | |      | (      | (\ (            ) |   | |   | |   | || (      | (      
-|  /  \ \___) (___| (____/\| (____/\| (____/\| ) \ \__   /\____) |   | |   | (___) || )      | )      
-|_/    \/\_______/(_______/(_______/(_______/|/   \__/   \_______)   )_(   (_______)|/       |/       
-                                                                                                   
+|  (_/ /    | |   | |      | |      | (__    | (____)|   | (_____    | |   | |   | || (__    | (__
+|   _ (     | |   | |      | |      |  __)   |     __)   (_____  )   | |   | |   | ||  __)   |  __)
+|  ( \ \    | |   | |      | |      | (      | (\ (            ) |   | |   | |   | || (      | (
+|  /  \ \___) (___| (____/\| (____/\| (____/\| ) \ \__   /\____) |   | |   | (___) || )      | )
+|_/    \/\_______/(_______/(_______/(_______/|/   \__/   \_______)   )_(   (_______)|/       |/
 
      O
-  /\__\__/\     
+  /\__\__/\
  /  __ __  \   /
-\("   0   ")/   
+\("   0   ")/
 
 ░░░░░░░░░░░░▄▄░░░░░░░░░░
 ░░░░░░░░░░░█░░█░░░░░░░░░
@@ -54,12 +53,12 @@
 ▓▓▓▓▓▓█░░░░░░░░░░░░░░█░░
 ▓▓▓▓▓▓█░░░░░░░░░░░░░░█░░
 ▓▓▓▓▓▓█████░░░░░░░░░██░░
-█████▀░░░░▀▀████████░░░░ 
+█████▀░░░░▀▀████████░░░░
 
 		   ¡Chocobo!
 		   ¿Chocobo?
 
- 		          ,iﾉﾉ
+ 		        ,iﾉﾉ
 　　　　　　　　　　,､ノﾉ:ﾚ
 　　　　　　　 ,,:i,i/:'／'~/　　　　　　　　　　　　　　　　 ,/!
 　　　　　,､_,ﾉ:!~;'彡-三ヾ､　　　　　　　　　　　　　　 ,从i　 ,
@@ -89,7 +88,6 @@
 　　　　　　　　　　/／
 　　　　　　　　　　!'
 
-
 	 ____  _      ____    _     _  ____    _      ____  _      _____   _  ____
 	/  _ \/ \  /|/  _ \  / \ /|/ \/ ___\  / \  /|/  _ \/ \__/|/  __/  / \/ ___\
 	| / \|| |\ ||| | \|  | |_||| ||    \  | |\ ||| / \|| |\/|||  \    | ||    \
@@ -110,9 +108,9 @@ I didn't contribute...
             ..MN.MM .    ., .                    ....     ..MM.NM
           . $M:..MMM. . ... .
                                       ^ ^
-                                      (O-O)  -hoot, hoot indeed
-                                      (---)
-                                      -"-"-
+                                     (O-O)  -hoot, hoot indeed
+                                     (---)
+                                     -"-"-
                                       [|]          . :..  ..MMN..=M?.
         ...MNZM8N ~MM. ..=..~                   ..+..7...,MM:.M?M?MM..
 
@@ -221,20 +219,11 @@ I::::::::I GG:::::::::::::::GM::::::M               M::::::ME:::::::::::::::::::
 I::::::::I   GGG::::::GGG:::GM::::::M               M::::::ME::::::::::::::::::::E                         4::::::::43:::::::::::::::33    00:::::::::00
 IIIIIIIIII      GGGGGG   GGGGMMMMMMMM               MMMMMMMMEEEEEEEEEEEEEEEEEEEEEE                         4444444444 333333333333333        000000000
 
-
-
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
  ...M~+M ,?Z.:,..MMNMM.~M.?? +:.. O.M...,.M.7. .=,.~~.M?.MMNMM. =..Z?, M7,M
  . :D.NMD+M$.+NDM+ .:$D:ZM...MM:.NM.M.M:M.M.MD.,MN...M?,O$:..$MMM,.+N+NMD.M+
-
-
-
-
-
-
-
 
   .MM:Z~M,M.D..M=.I.M= .D7MM,:,M:,~$M.::,.M+,,,M.=,MMOO..=M.Z.IM..O.M,M,$=MM.
    ~M:M MN7=. 8M.$M$ M...8=,==:.D..MM.$:+.OM..$.~+?~?I.. M +M+.MZ .78$M.M.8:.
@@ -249,7 +238,6 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
  .  Z..M?$:M=MM. MMMMMI.M..            :            ..D.+MMMMM..MM+M~D~M..7.
     I..M~8 D .M N.?MM.,Z Z            .: .           ?.D.:MM~.M.M  O M,M..?
     :..M.M.ZD,MD.M$MMMM:M.,            :..          ,.D,MMMM$M.NM.N+.M.M..:.
-
 
 ==========================================
 | ,dP""8a "888888b,  d8b    "888b  ,888" |
@@ -288,11 +276,6 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
            \'--'--'/
             `-...-'
 
-
-
-
-
-
     Huh... what is this suppose to be?
 	Moose.
 
@@ -300,45 +283,16 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
       .~.N DM,MMIN.M.DM O..           .~..         ...$ MZ.M OZMM.M8,O I.
       . .,+~M.D,M.,8..MZ N.           .~..          .D.?N..N:.M:M D?7,,
        .$.M.7.O ZM .?..M....          .=.            .:M..$ .M?.I.=.M.Z.
-
         ..:. ,$NMMM..?.,M.            .~             .M: 7..MMMN++ .....
-
-
-
          ..N.N.M$ DM. ..M?.           ..             ZN....MO OM.8.D....
           .. . M Z.,N...,M                        ...M.. .M~ 7,M..
           ..+.Z.M ..=M ..M~                         ?D...M:  .M.$.=..
-
             .. .,D  .78. .M.                       .M. .N=...M ,..
-
-
-
-
-
-
-
-
-
-
                ..?.. .M...M .                       M...N...::.~..
               . . 7  .7I..O?..                    .:7..~=. .O...
                 . D.. ?=..=N.                     .8,. ::  .N
                  .I.. 7.  .M.                     .M    ? ..$.
                 ....  N.. :N..                    .M   .D. ..
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                      ..  .=O..                    .?,. ., .
                      ,.  .Z~.                      ,I.  ..
                     . .. .M.                       .M.   .
@@ -359,7 +313,7 @@ _____________________                              _____________________
       |                                                          |
       |                                                          |
       |                                                          |
-      /                        Bitmin! :D                        \
+      /                        Bitman! :D                        \
      /_____________                                  _____________\
                    `----._                    _.----'
                           `--.            .--'
@@ -367,7 +321,6 @@ _____________________                              _____________________
                                  \    /
                                   \  /
                                    \/
-
 
 __________                                     .__.__  .__            .__
 \______   \ ____ _____    ____  ____   __  _  _|__|  | |  |   __  _  _|__| ____
@@ -388,23 +341,22 @@ ___________                           .__.__  .__    .__
                      | |           / /
                      |_|           \/   twenty-øne-piløts
 
-
 EXTERMINATE! EXTERMINATE!
-	 _n____n__
-		/         \---||--<
-	 /___________\
-	 _|____|____|_
-	 _|____|____|_
-		|    |    |
-	 --------------
+	    _n___n_
+	   /       \---||--<
+	  /_________\
+	 |_|___|___|_|
+	 |_|___|___|_|
+     | |   |   | |
+	 -------------
 	 | || || || ||\
 	 | || || || || \++++++++------<
 	 ===============
 	 |   |  |  |   |
 	(| O | O| O| O |)
-	|   |   |   |   |
- (| O | O | O | O |)
-	|   |   |   |    |
+   |   |   |   |   |
+  (| O | O | O | O |)
+  |   |   |   |    |
 (| O |  O | O  | O |)
  |   |    |    |    |
 (| O |  O |  O |  O |)
@@ -433,9 +385,6 @@ EXTERMINATE! EXTERMINATE!
          '  `-.   `'    \/\`.   `.    )
                \  -hrr-    \ `.  |    |
 
-
-
-
                                    ________
                                  ||.     . ||
                                  ||   ‿    ||
@@ -445,8 +394,6 @@ EXTERMINATE! EXTERMINATE!
  _|    _|  _|      _|  _|    _|  || +  o  0||
  _|_|_|    _|      _|    _|_|    ||________||
                                     |    |
-
-
 
 		AAAAAAAAAA       BBBBBBBBBBBBBB        CCCCCCCCCCCCCC
 	  AAAAAAAAAAAAAA     BBBBBBBBBBBBBBBB    CCCCCCCCCCCCCCCCC
@@ -514,10 +461,6 @@ MMMMMMMMMMMMMy+o--````       `````....-://+ohdNMMMMMMMMMMMMM
 MMMMMMMMMMMMMmMhd/+.```        ```..--:++oydmNMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMmhs+/.```````.`..-:/+shdNmNMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMNMmys+///+ooo+ooyhydNmMMMMMMMMMMMMMMMMMMM
-
-
-
-
 
                                              ,'@@@@@@@@@@@@@@#:`
                                        ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@#`
@@ -616,13 +559,6 @@ MMMMMMMMMMMMMMMMMMMNMmys+///+ooo+ooyhydNmMMMMMMMMMMMMMMMMMMM
                                           @@@@@@@@@@@@@@@@@@@@@@@,
                                              .#@@@@@@@@@@@@@@:
 
-
-
-
-
-
-
-
                                                   `-/+ossso+/:-
                                              .+yys/-.`````.-:+d+
                                            :hy:              /d/
@@ -649,7 +585,6 @@ MMMMMMMMMMMMMMMMMMMNMmys+///+ooo+ooyhydNmMMMMMMMMMMMMMMMMMMM
                                              .ds+:..`````..-/oho
                                                `-/+ooosooo+/:.
                                                  oh dear...
-
 
 i`it)v|[[[[(//s+)`(-\\/JJgbdd@@@@@@@dmKK(c!(/-[2=/cct/!-v\!_L\)|
 ]-!/(!-)\L\)v|c5(!,!Ldd@@@@@@@@@@@@@@@@@@@dK/]!c\\\v|i\/cT\v((c-
@@ -743,115 +678,114 @@ quu..__
               `',:                 :    .'
 
 			  I love Zelda!
-                                             . . ... .......  .. ..                                                     
-                                              . MMMMDDDDD8DMMMMN.                                                       
-                                          .  DMMMO777$$ZZ$$$$$$ZDMMMNM.......                                           
-                                           MMMMMMMMMMMMMNZ77$$$Z$Z$7$$8MN....                                           
-                                   ..  ..MMMMDI~===+++==+78MMD$$$$7O8OOOOMNM.. ..                                       
-                                   . ..MMM$~+==++++===++++++~ZMNMMM88OOOOO8MNN.                                         
-                               .  ...MMMMZ+:++++++=++++=++++===+==DMMM8OOOOOMM .....                                    
-                                  .MMMD7+==+++=++=+++++++++++++++=++++MOOOOOO8M. . .                                    
-                               ...MMM8+++=+++=++++=++++++++++++++++++=~M8O88OOMM.. .                                    
-                            .....MN==++++++++=+++++++++++++++++=++++++=+DM8OO8OMM                                       
-                            ...NMI+7+=+++++?+++++++++++++++++++++++++++I$8M8OOOZMM...                                   
-                          ....MMN+7+++++++II7OD7+++++++++++++++++++++++II7IM88OOONM.                                    
-                          .MMMM++++++++7?IMN=+=+++++++++++++++++++++++II7IINMMOOOOMN                                    
-                   .....NMMMMI+++++=ZI7MMZ:+===+++++++++++++++++++++++IIII7IMMOOO8OM ..                                 
-                  .....MMO=ND~O=77ZMMMMD~+++++++++++++++++++++++++++7IIIIIIIIN8OOOZM.                                   
+                                             . . ... .......  .. ..
+                                              . MMMMDDDDD8DMMMMN.
+                                          .  DMMMO777$$ZZ$$$$$$ZDMMMNM.......
+                                           MMMMMMMMMMMMMNZ77$$$Z$Z$7$$8MN....
+                                   ..  ..MMMMDI~===+++==+78MMD$$$$7O8OOOOMNM.. ..
+                                   . ..MMM$~+==++++===++++++~ZMNMMM88OOOOO8MNN.
+                               .  ...MMMMZ+:++++++=++++=++++===+==DMMM8OOOOOMM .....
+                                  .MMMD7+==+++=++=+++++++++++++++=++++MOOOOOO8M. . .
+                               ...MMM8+++=+++=++++=++++++++++++++++++=~M8O88OOMM.. .
+                            .....MN==++++++++=+++++++++++++++++=++++++=+DM8OO8OMM
+                            ...NMI+7+=+++++?+++++++++++++++++++++++++++I$8M8OOOZMM...
+                          ....MMN+7+++++++II7OD7+++++++++++++++++++++++II7IM88OOONM.
+                          .MMMM++++++++7?IMN=+=+++++++++++++++++++++++II7IINMMOOOOMN
+                   .....NMMMMI+++++=ZI7MMZ:+===+++++++++++++++++++++++IIII7IMMOOO8OM ..
+                  .....MMO=ND~O=77ZMMMMD~+++++++++++++++++++++++++++7IIIIIIIIN8OOOZM.
                      MMNM88M7OI7INMMMDI=++++++=++++=++++++++=7+++=IIIIII7I7IIMN88ONMM ..                                
-                    ..MMMMDOIOO8MMMM$?+++++++++++=+++++++=III?=IIIIIIIIIIIMIIOMMMMN?M .                                 
-                     ..MMMOMMMNMNMM7I=++=+++++++===+++++?IIIII77IIIIIIIIIDMIIIMM8:?MM                                   
-                      .  MMMMMMMMDIII7+=+++++==++=IZ77IIIII7I7IIIMMMM8?IMONIIIM+:M$ON...  .                             
-                       ..MMMMMMMMII7O7I7III==IIIIIIIIIIIIIIIIIIOMMMMMMMM8I?MIIMIM+N8N...  .                             
-                     .NMMO$$MMMMI7IIIII7IIIIIIIII7I7IIIIIIIII7ZMMMMZ?IMIIII+O7MM$$?MNM. . .                             
-                    ..MN$$Z$DM$III7I7III7IIIII7II7I$IIIIIIIIIIMMM$IIDMI7IIIIIMM$?MIMDM. . .                             
-               . . DMM7$$$MMZ=$8ZD7I7I$MMMZII7I7IIIIIIII7III7MMI=DMMMMMDI??I?D8M?DOMON..  .                             
-              ...MMMD7$$$ZNMNMNI8ZOI8MMMMMMMM$?I7IIII77IIII?MOIMMMMMMMMNNMM?IDZMI?MDD..   .                             
-       . ......MMN78$$$$$Z$$MMMMMMMNM7OIINMMMMM7II7IZ7II?IDM?OMMMMMMMMM8~~~IIOIM+MDOM                                   
-       . . MMM7$$$$O$$$$$$Z$8M=OMMMMMMMMMMMMMMMMMIZIIIIIIZ8NIMMMMMMMMMMN~:7I7IIMMNOZM  .                                
-       ..MMOD7$$$$$$$$$$$$$$7N~OZOOMMMMMMMMMMMMM?DD7NNMMD??IMMI:MMMMMMM8~8IINIIM8OODM .                                 
-   ....M87O7$$$$$$$$$$$$$$$$$ZMMM==MD$D.,MMMMMMM~M???7I???I?$~=~$MMMMMMMIIIMIIIMDO8M  .                                 
-   . .MNZO$$$$$$$$$$$$$$$$$$O8MMZ+IMM~=,.MMMMMMM.:$==~==:~?IIIN7+?MMMM$I?IOOIIDMO8M ....                                
- .  MMMOMOM$7MOMOOOOOOOO$8O8ONM+=77NM~~~?MMMNMMN:~~~=~?~=~=~II?II?III??IIMIIIIM8NM..                                    
-.  MNMMMMMMN8MODZMO8OOOOOOOO8MD=I77ZM:~===~==~:~~~~===~~=:=~?IIIIIIIIIII?M?77NOMN....                                   
-           . .MMMMODZOOOOOOONM++ZIIMM?===~~?======~=~~II??I?II?7IIIIIIIIM7OMMMM                                         
-          ... ...NMMMMMMD88Z8M=+7IDMOM~=~~~~~~~?~~===OMIII?II$?III$I?I??MM?MMM. .                                       
-                         .MMMM=$MMZ8OMMM:~:~?=~M+:~~===?I?IIIII?III?II$??MM.. .                                         
-                            .MMD...D...MM==?~~~==+78MMNMMMMNND87IIIIII?NM.  ....                                        
-                        . . .............MMI==~=?~=~=~~~=~=??IIIIIIIOMM....MMMD                                         
-                                         ..NMMO:=:~~:~~=~~?II?II?NMMMM   DMMM?MMMM .                                    
-                                          ....MMMD$+:~+II?I?+$8MM$IMMMMMMMMD$M?+DMM                                     
-                                        . . ..MMMMMMMMMMNMMMN$+IIIIMMD8O8MMMZII8??OMM.                                  
-                                        ...MMMMMNZMMM:::~~I:IIIII??MNO88OOMMMM??IM?IMM .                                
-                                   .....MMMMMD7$$$DM~~~==~=~=~??IIMDOO8OO88OMMMN?I$MDMM                                 
-                                     DMMMMMO7$$$$$ZMMMMMMD8ND8O8NMMOOOOOOOO88MMMMMZ$MMM                                 
-                        . ....... MMMMD?=MMZ$$$$ZZ$M+=+=IDDDD7?MMOOOOOOOO8O8MM7MMMMMMM  .                               
-                         . .. ..MMMMZ++??MMMN$$$$$$N+???+????+MMZ88O8OOOOOONM7O778MMMMMD                                
-                        .  MMMMMN=+??++?IMMM$$Z$$$$OO?+?+???MMM7$$8OOO8OOOOMN77$7777MMMMMM.                             
-                     . .NMMMMM??+?++?777$MMM7$$$$$Z$M=++?+=MMZ$$$$OOOOOOOOOMN777777777NMMMMN..                          
-                     .MMMM7++?=??77$77$7$8M8$$$$$$$ZMD=++NM8$ZZ$Z$8OOOOOOO8M7777777777$77MMMM                           
-                 .. MMD=?+?++7$$7$7777777MM7$$Z$$$$Z7MZ+M87$$$$$$$8OOO8OOOM$Z77$77777$77$77MMM....                      
-                    MO+I?=ZDMMMZ7777777IIMM$$$$$$$$$$8MM8$$$$$$Z$$8OO8OOOOM8$777$777777$7$778MMN..                      
-              .....MI?????77MMNM77IOMMMM.MZ$Z$Z$$$$$$$87$$$$$$$$ZO8O88OOODMMO777$7$77777$77$77ZMMM. .                   
-             .....M7++??+???INMMMMMM. ...M$$$$$$$$$$Z$$Z$$$$$$$$Z$OOOOOOOMMMMMM777777777777$7777MM. .                   
-              ...N$?I+??+?7777NMM... ...MD$$$$Z$$$$$$Z$$$$$Z$$$$$$OO8OO8O8MMMMMMMM77$777777777777MMM.                   
-             ....MM$???=??$7777MM.... .MM7$$$$$$$$$$$$$$$Z$$$$$$$OOOOOOOOMMMMMMMMMMM777$777$77Z77MMMM.                  
-               . .MMM7++?7?+77777M... .MM7$$$$$$$$Z$$$Z$$$$$$$$$8OOOOOOOOMMMM8MMMMMMMMI77$7$$77777MMM                   
-                 .. .M=??????777$78MD.DMM$$$$$$$$$$$$$$$$$$$ZO$ZOOOOOO8OOMMMMMMOM?MMMMM877$7$7$777NMMM...               
-                  ....MO+?+???$$$$7$DOMMM7$$$$$$$$$$$Z$$$$$Z$$Z88OO8O8OOMMMNDMDMMMM$DMMMO+++?I7777IMMM..                
-                     .MMM++?+++$7$$77MMM8$$$$$$$$$$$$$$$$$$$$$ZOOOOOOO8OMMMDMMMMMM8?IM.MMO+?I?7$7778MM...               
-                     ...MM+++??++DMDIMMMZ$$$$$$$$$$$$$$$$$$$$$OO8OOOOOOZMMMMDMMIMM?$M .MMM+??++++?77MM.  .              
-                     .   MM=+7?OM$II?OMM$$$$$$O$ZOZ$$$$$$$Z$$O8O8OOOOOOOMMM$MD$MMI?M  ..MMM++++??I+7MMM...              
-                     .   .MMMMMN:I?IINMM7$$$$$$$$$$$$ZZ$$$$$887OOOOOOOOO8MM$I8$M?+M.... .MMN???????77MM...              
-                            ..M?+=??IMMM$$$Z$$$$$$$Z$$$ZZ$$$Z$888OOOOOOO8MM8IMM?+M..      MM7+???+?7IMMD.               
-                           ..MMD~~,IIMMM7$OZ$$$$$$$$$$$Z$$Z$OO88OOOOO8OOOMM8IM?+MM      . MMM??+7I+?7MMM..              
-                           .MMI~~I?IIMMM$$$$$8OOZZ$$$$$$ZZ$$OOOOOOOOOOO8OMM8MIOM.. .    . .MM=+???++7MMM.               
-                        ...MMM==~?IIIMMM$$$Z$8OOO888O$$Z$$$Z8OO8888OOO8OOMMOM?M... .    . .MN=+I???+7MMN..... ..        
-                          MMOM7=~IIIIMMN$$$$$OONMMMMMOOOO$$8OOO888O8O88OOMMN+M......       .MO$II?7I7MM.. MM~OMM        
-                          MN~M===~IIIMMM8O88OMMMMMMMMMMM8O8OOOOOOOOO888OODMMMM ..          .MMMMMMMMMMMMMMMD~$NN        
-                        ..8MI???II7MMMMMMMMMMM?+I===MMMMMMMNDDDD88ODNMMMMMMMM  .           ..MMOMMN7?7MMZIMM$OMD        
-                           MODDMMMMM  MMMMMMM?~8===+INMMMMMMMMMMMMMMMMMMMMMM.       ......MMMN+~~IIII$NM8ZZMMM          
-                        ..  ........ MMMMMMMM~7=$DNM=IIMMMMMMMMMMMMMMMMMMMM.      MMM....MMO:~:~II$I$I7MMMMN...         
-                          . .......  MMMMMMMM~=D===7II7MMMMMMMMMMMMMMMMMMMM.     MZDMMMMMM=~=~IIIIII$I+MM.. . ..        
-                                   . MMM88NMMD=:DMN==IIMMMMMMMMMMMMMMMMDOZOM     MM$??MMN=?===~I?IIIZII$M.              
-                                   ..MM7ZZ$Z$MM7IIIII$MMMMMMMMMMN8OOOOOOOO8MM    .MDD+IMMMMM$~~I?II$OIIIM.              
-                                  ...MM$$OZZ$$MMMIIMMMMNOOOO8O8OOOOO8OOOOO8MM.. ..DDM8+8NMMMM~~II?~?Z7MMM               
-                                  ...MM$$$ZZ$$$$7Z8D8ZO8OODO8OOOOOO8OO8O8OOOMM  .MMMMMM?IMMMM=~IMIIMMMMN.               
-                                   ..MM$ZZ$Z$$$$$$$8O$Z$$$88O88OOOOOO888O8OOMM.MMM+.?ZMM$$MMMM:=MMMMN                   
-                                    .MM7$$$$$$$$$$Z$Z$$$Z$O$8O8OOOOOO888O8OOZMMI===,==7MMZMMMMM7M.....                  
-                                   ..MM7$$O$$$Z$$$$$ZZ$$O$O$$DO8O888OOOO8888OM+=~.,=:NMMMN$MMMM .                       
-                                  ...MM7$O8$$$$$$$ZZZ$$$Z$$$$$88888O88888OOOMMO=,,NMMMMMMM8ZZMMM                        
-                                  ...MMMMMMDO$$$$Z$$$Z$$$$Z7$$ZO88O8DMMMMMMMMMM8MMMMMMMMMMMN$$MM .                      
-                                   ..MMM~:~+II$8MMMMMMMDDNMMMMMMMMMMMMMMMMO+MMMMMMMMMMM  .MNM$NM .                      
-                                  ...MMM.::~~+?++IMMMMMMMMMMMMMMMMDZI?O++?II+MMMMMMMMM     MMZZM                        
-                                   . MMD.~~~~????8MM    .....MMMMMM~~~~~??II+IMMMMM.       ..MMD                        
-                                   . MM8~~~~~I??+MMM       MMMMMMMM:~:::~~~+=+MMM...        .    .                      
-                                     MMD~~~~~?I?$MMM....MMMI~8$NIMM8~~:~:~~???MMM...                                    
-                                     MMD~~:~~?++MMM  MMD==++$Z+MNMMM+~~,:::++?MMMM..                                    
-                                   ..MMO~~~:+?+?MMMMMD==~==D7=+MMMMMO~~~~~~+++OMMM..                                    
-                                   ..DMM?~~~?++++MMO=?,,,7~IMMMMMMMMM~,~~~~++++MMM..                                    
-                                   ...MMM~~~.+=??+MM,,~..7MMMMMMMMMMM~::~~~++++DMM .                                    
-                                   . .MMM~~~~+??++MMM?$MMMMMMMMMM....MN~:~~?+I?+NMMM                                    
-                                   . .MMM~~~~??++?NMMMMNMMMMMMM.......M$~.~~+++??IMM                                    
-                                   ...MMMMMMMNMMMMMMMMMMMMMM .      ...MM+:~~~?+++NMM. .                                
-                                   ...MM8ZD8DDDN8D8MMMMMNM.         . .MMN~~~~+?+++MMM .                                
-                                    .MMMZZZZZD8888NMMMM8              .MMM~~~~~???+7MM                                  
-                                    .MMMZZZZZDD88DMMM...              .MMMO:~~~+++?OMM .                                
-                                 ...MMMMZZZZZ888D8MM....              .NMMMI~?IODNMMMM... .                             
-                                .  MNMMMZ$ZZD88D8DMM...               ..MM$O88MMN888MM... .                             
-                                  ...MMMNN8DD8DD8MMM...               ..MMZZZZZO8D88MM. . .                             
-                                  ...MNZZMDD8MDMMMM..  .              ..MM$ZZZZ88D88MM. . .                             
-                                   .M$78DD8MNMMMM8..                  ..MMOZZZZO88DDMM... .                             
-                                   ..MMMMMMMMM.                        ..MOZZZZ88888MM                                  
-                                      . .  . .. .                     ...MNOOOZZ8888MM..                                
-                                                                      ...MD$ZZND8DDDMM.....                             
-                                                                      ...MMZZZZZ8D8MMM... .                             
-                                                                          .MMM8Z$ZZ88M....                              
-                                                                            DMMMMMMNMN.. ..                             
-                                                                          .  .....MMMMM.....                            
-                                                                                 ....  .                                
-																				 
-																				 
+                    ..MMMMDOIOO8MMMM$?+++++++++++=+++++++=III?=IIIIIIIIIIIMIIOMMMMN?M .
+                     ..MMMOMMMNMNMM7I=++=+++++++===+++++?IIIII77IIIIIIIIIDMIIIMM8:?MM
+                      .  MMMMMMMMDIII7+=+++++==++=IZ77IIIII7I7IIIMMMM8?IMONIIIM+:M$ON...  .
+                       ..MMMMMMMMII7O7I7III==IIIIIIIIIIIIIIIIIIOMMMMMMMM8I?MIIMIM+N8N...  .
+                     .NMMO$$MMMMI7IIIII7IIIIIIIII7I7IIIIIIIII7ZMMMMZ?IMIIII+O7MM$$?MNM. . .
+                    ..MN$$Z$DM$III7I7III7IIIII7II7I$IIIIIIIIIIMMM$IIDMI7IIIIIMM$?MIMDM. . .
+               . . DMM7$$$MMZ=$8ZD7I7I$MMMZII7I7IIIIIIII7III7MMI=DMMMMMDI??I?D8M?DOMON..  .
+              ...MMMD7$$$ZNMNMNI8ZOI8MMMMMMMM$?I7IIII77IIII?MOIMMMMMMMMNNMM?IDZMI?MDD..   .
+       . ......MMN78$$$$$Z$$MMMMMMMNM7OIINMMMMM7II7IZ7II?IDM?OMMMMMMMMM8~~~IIOIM+MDOM
+       . . MMM7$$$$O$$$$$$Z$8M=OMMMMMMMMMMMMMMMMMIZIIIIIIZ8NIMMMMMMMMMMN~:7I7IIMMNOZM  .
+       ..MMOD7$$$$$$$$$$$$$$7N~OZOOMMMMMMMMMMMMM?DD7NNMMD??IMMI:MMMMMMM8~8IINIIM8OODM .
+   ....M87O7$$$$$$$$$$$$$$$$$ZMMM==MD$D.,MMMMMMM~M???7I???I?$~=~$MMMMMMMIIIMIIIMDO8M  .
+   . .MNZO$$$$$$$$$$$$$$$$$$O8MMZ+IMM~=,.MMMMMMM.:$==~==:~?IIIN7+?MMMM$I?IOOIIDMO8M ....
+ .  MMMOMOM$7MOMOOOOOOOO$8O8ONM+=77NM~~~?MMMNMMN:~~~=~?~=~=~II?II?III??IIMIIIIM8NM..
+.  MNMMMMMMN8MODZMO8OOOOOOOO8MD=I77ZM:~===~==~:~~~~===~~=:=~?IIIIIIIIIII?M?77NOMN....
+           . .MMMMODZOOOOOOONM++ZIIMM?===~~?======~=~~II??I?II?7IIIIIIIIM7OMMMM
+          ... ...NMMMMMMD88Z8M=+7IDMOM~=~~~~~~~?~~===OMIII?II$?III$I?I??MM?MMM. .
+                         .MMMM=$MMZ8OMMM:~:~?=~M+:~~===?I?IIIII?III?II$??MM.. .
+                            .MMD...D...MM==?~~~==+78MMNMMMMNND87IIIIII?NM.  ....
+                        . . .............MMI==~=?~=~=~~~=~=??IIIIIIIOMM....MMMD
+                                         ..NMMO:=:~~:~~=~~?II?II?NMMMM   DMMM?MMMM .
+                                          ....MMMD$+:~+II?I?+$8MM$IMMMMMMMMD$M?+DMM
+                                        . . ..MMMMMMMMMMNMMMN$+IIIIMMD8O8MMMZII8??OMM.
+                                        ...MMMMMNZMMM:::~~I:IIIII??MNO88OOMMMM??IM?IMM .
+                                   .....MMMMMD7$$$DM~~~==~=~=~??IIMDOO8OO88OMMMN?I$MDMM
+                                     DMMMMMO7$$$$$ZMMMMMMD8ND8O8NMMOOOOOOOO88MMMMMZ$MMM
+                        . ....... MMMMD?=MMZ$$$$ZZ$M+=+=IDDDD7?MMOOOOOOOO8O8MM7MMMMMMM  .
+                         . .. ..MMMMZ++??MMMN$$$$$$N+???+????+MMZ88O8OOOOOONM7O778MMMMMD
+                        .  MMMMMN=+??++?IMMM$$Z$$$$OO?+?+???MMM7$$8OOO8OOOOMN77$7777MMMMMM.
+                     . .NMMMMM??+?++?777$MMM7$$$$$Z$M=++?+=MMZ$$$$OOOOOOOOOMN777777777NMMMMN..
+                     .MMMM7++?=??77$77$7$8M8$$$$$$$ZMD=++NM8$ZZ$Z$8OOOOOOO8M7777777777$77MMMM
+                 .. MMD=?+?++7$$7$7777777MM7$$Z$$$$Z7MZ+M87$$$$$$$8OOO8OOOM$Z77$77777$77$77MMM....
+                    MO+I?=ZDMMMZ7777777IIMM$$$$$$$$$$8MM8$$$$$$Z$$8OO8OOOOM8$777$777777$7$778MMN..
+              .....MI?????77MMNM77IOMMMM.MZ$Z$Z$$$$$$$87$$$$$$$$ZO8O88OOODMMO777$7$77777$77$77ZMMM. .
+             .....M7++??+???INMMMMMM. ...M$$$$$$$$$$Z$$Z$$$$$$$$Z$OOOOOOOMMMMMM777777777777$7777MM. .
+              ...N$?I+??+?7777NMM... ...MD$$$$Z$$$$$$Z$$$$$Z$$$$$$OO8OO8O8MMMMMMMM77$777777777777MMM.
+             ....MM$???=??$7777MM.... .MM7$$$$$$$$$$$$$$$Z$$$$$$$OOOOOOOOMMMMMMMMMMM777$777$77Z77MMMM.
+               . .MMM7++?7?+77777M... .MM7$$$$$$$$Z$$$Z$$$$$$$$$8OOOOOOOOMMMM8MMMMMMMMI77$7$$77777MMM
+                 .. .M=??????777$78MD.DMM$$$$$$$$$$$$$$$$$$$ZO$ZOOOOOO8OOMMMMMMOM?MMMMM877$7$7$777NMMM...
+                  ....MO+?+???$$$$7$DOMMM7$$$$$$$$$$$Z$$$$$Z$$Z88OO8O8OOMMMNDMDMMMM$DMMMO+++?I7777IMMM..
+                     .MMM++?+++$7$$77MMM8$$$$$$$$$$$$$$$$$$$$$ZOOOOOOO8OMMMDMMMMMM8?IM.MMO+?I?7$7778MM...
+                     ...MM+++??++DMDIMMMZ$$$$$$$$$$$$$$$$$$$$$OO8OOOOOOZMMMMDMMIMM?$M .MMM+??++++?77MM.  .
+                     .   MM=+7?OM$II?OMM$$$$$$O$ZOZ$$$$$$$Z$$O8O8OOOOOOOMMM$MD$MMI?M  ..MMM++++??I+7MMM...
+                     .   .MMMMMN:I?IINMM7$$$$$$$$$$$$ZZ$$$$$887OOOOOOOOO8MM$I8$M?+M.... .MMN???????77MM...
+                            ..M?+=??IMMM$$$Z$$$$$$$Z$$$ZZ$$$Z$888OOOOOOO8MM8IMM?+M..      MM7+???+?7IMMD.
+                           ..MMD~~,IIMMM7$OZ$$$$$$$$$$$Z$$Z$OO88OOOOO8OOOMM8IM?+MM      . MMM??+7I+?7MMM..
+                           .MMI~~I?IIMMM$$$$$8OOZZ$$$$$$ZZ$$OOOOOOOOOOO8OMM8MIOM.. .    . .MM=+???++7MMM.
+                        ...MMM==~?IIIMMM$$$Z$8OOO888O$$Z$$$Z8OO8888OOO8OOMMOM?M... .    . .MN=+I???+7MMN..... ..
+                          MMOM7=~IIIIMMN$$$$$OONMMMMMOOOO$$8OOO888O8O88OOMMN+M......       .MO$II?7I7MM.. MM~OMM
+                          MN~M===~IIIMMM8O88OMMMMMMMMMMM8O8OOOOOOOOO888OODMMMM ..          .MMMMMMMMMMMMMMMD~$NN
+                        ..8MI???II7MMMMMMMMMMM?+I===MMMMMMMNDDDD88ODNMMMMMMMM  .           ..MMOMMN7?7MMZIMM$OMD
+                           MODDMMMMM  MMMMMMM?~8===+INMMMMMMMMMMMMMMMMMMMMMM.       ......MMMN+~~IIII$NM8ZZMMM
+                        ..  ........ MMMMMMMM~7=$DNM=IIMMMMMMMMMMMMMMMMMMMM.      MMM....MMO:~:~II$I$I7MMMMN...
+                          . .......  MMMMMMMM~=D===7II7MMMMMMMMMMMMMMMMMMMM.     MZDMMMMMM=~=~IIIIII$I+MM.. . ..
+                                   . MMM88NMMD=:DMN==IIMMMMMMMMMMMMMMMMDOZOM     MM$??MMN=?===~I?IIIZII$M.
+                                   ..MM7ZZ$Z$MM7IIIII$MMMMMMMMMMN8OOOOOOOO8MM    .MDD+IMMMMM$~~I?II$OIIIM.
+                                  ...MM$$OZZ$$MMMIIMMMMNOOOO8O8OOOOO8OOOOO8MM.. ..DDM8+8NMMMM~~II?~?Z7MMM
+                                  ...MM$$$ZZ$$$$7Z8D8ZO8OODO8OOOOOO8OO8O8OOOMM  .MMMMMM?IMMMM=~IMIIMMMMN.
+                                   ..MM$ZZ$Z$$$$$$$8O$Z$$$88O88OOOOOO888O8OOMM.MMM+.?ZMM$$MMMM:=MMMMN
+                                    .MM7$$$$$$$$$$Z$Z$$$Z$O$8O8OOOOOO888O8OOZMMI===,==7MMZMMMMM7M.....
+                                   ..MM7$$O$$$Z$$$$$ZZ$$O$O$$DO8O888OOOO8888OM+=~.,=:NMMMN$MMMM .
+                                  ...MM7$O8$$$$$$$ZZZ$$$Z$$$$$88888O88888OOOMMO=,,NMMMMMMM8ZZMMM
+                                  ...MMMMMMDO$$$$Z$$$Z$$$$Z7$$ZO88O8DMMMMMMMMMM8MMMMMMMMMMMN$$MM .
+                                   ..MMM~:~+II$8MMMMMMMDDNMMMMMMMMMMMMMMMMO+MMMMMMMMMMM  .MNM$NM .
+                                  ...MMM.::~~+?++IMMMMMMMMMMMMMMMMDZI?O++?II+MMMMMMMMM     MMZZM
+                                   . MMD.~~~~????8MM    .....MMMMMM~~~~~??II+IMMMMM.       ..MMD
+                                   . MM8~~~~~I??+MMM       MMMMMMMM:~:::~~~+=+MMM...        .
+                                     MMD~~~~~?I?$MMM....MMMI~8$NIMM8~~:~:~~???MMM...
+                                     MMD~~:~~?++MMM  MMD==++$Z+MNMMM+~~,:::++?MMMM..
+                                   ..MMO~~~:+?+?MMMMMD==~==D7=+MMMMMO~~~~~~+++OMMM..
+                                   ..DMM?~~~?++++MMO=?,,,7~IMMMMMMMMM~,~~~~++++MMM..
+                                   ...MMM~~~.+=??+MM,,~..7MMMMMMMMMMM~::~~~++++DMM .
+                                   . .MMM~~~~+??++MMM?$MMMMMMMMMM....MN~:~~?+I?+NMMM
+                                   . .MMM~~~~??++?NMMMMNMMMMMMM.......M$~.~~+++??IMM
+                                   ...MMMMMMMNMMMMMMMMMMMMMM .      ...MM+:~~~?+++NMM. .
+                                   ...MM8ZD8DDDN8D8MMMMMNM.         . .MMN~~~~+?+++MMM .
+                                    .MMMZZZZZD8888NMMMM8              .MMM~~~~~???+7MM
+                                    .MMMZZZZZDD88DMMM...              .MMMO:~~~+++?OMM .
+                                 ...MMMMZZZZZ888D8MM....              .NMMMI~?IODNMMMM... .
+                                .  MNMMMZ$ZZD88D8DMM...               ..MM$O88MMN888MM... .
+                                  ...MMMNN8DD8DD8MMM...               ..MMZZZZZO8D88MM. . .
+                                  ...MNZZMDD8MDMMMM..  .              ..MM$ZZZZ88D88MM. . .
+                                   .M$78DD8MNMMMM8..                  ..MMOZZZZO88DDMM... .
+                                   ..MMMMMMMMM.                        ..MOZZZZ88888MM
+                                      . .  . .. .                     ...MNOOOZZ8888MM..
+                                                                      ...MD$ZZND8DDDMM.....
+                                                                      ...MMZZZZZ8D8MMM... .
+                                                                          .MMM8Z$ZZ88M....
+                                                                            DMMMMMMNMN.. ..
+                                                                          .  .....MMMMM.....
+                                                                                 ....  .
+
     ___  ___  ___  ___  ___.---------------.
   .'\__\'\__\'\__\'\__\'\__,`   .  ____ ___ \
   |\/ __\/ __\/ __\/ __\/ _:\   |`.  \  \___ \
@@ -860,62 +794,59 @@ quu..__
      \\'\__\'\__\'\__\ \__\'\_;-----------------`
       \\/   \/   \/   \/   \/ :                 |
        \|______________________;________________| 
-	   
-	   
-	   
-	          =4c,.                                                                
-   ,dP""-`$$$c                                                              
- ,$" ,!!! $$$$$c,. .,,.                                                     
-,P',!!!!!>?$$$$$$$$$$$$$$$$$cc,                                             
-d  <!!!'-  $$$$$$$$$$$$$$$$$$$$$$c, .,,,ccccc,                              
-4$'`!!!!>  `$P".,."$$$$$$$$$$$$$$$$b,"$$$$"  ?c,                            
- ?c '!!!:',$",$$$$$c"$$$$$$$$$$$$$$$$c`?""-!> $F                            
-  `"bc,``,$F,$"" `"$b`$$$$$$$$$$$$$$$P" <;`!> $'                            
-      `" $$ ,",??$c`$c`$$$$$$$$$$$$",c$b ` ',d'                             
-        d$$F3     3F$$ $$$$$$$$$$P  ,,`"<!`z"                               
-        $$$$c\.   ,"$'J$$$$$$$$$$  "?$ <r="                                 
-        $$$$$$c   "`P,$$$$$$$$$$F    ,"                                     
-        `$$$$$$$$be..$?$$$$$$$$$b .,,c$                                     
-         `?$$$$$$$$$$","???$$$$$$c3$$$P                                     
-           "?$$$$$" 4$$c,`::."".- 4$P"                                      
-           `$,"?$$$ `$$$$$c,`,ccP `                                         
-            ?$$ `""db,""""`"`??",c                                          
-             ?FJMx $$$$$$$$$$$$'$Lc                                         
-            dF MMM,"$$$$$$$$$$",$$$b,                                       
-           d$P,MMMMn,,."??""",d$$$$$$b,                                     
-          z$P MMMMMMMMMMMP )$$$$$$$$$$$c                                    
-         ,$",MMMMMMMMMMMP d$$$$$$$$$$$$$,                                   
-        ,$',MMMMMMMMMMMP $$$$$$$$$$$$$$$$                                   
-        4$ 3MMMMMMMMMMM $$$$$$$$$$$$$$$$$,                                  
-        4$ 4MMMMMMMMMM><$$$$$$$$$$$$$$$$$b                                  
-        `$h`4MMMMMMMMM>`$$$$$$$$$$$$$$$$$$,                            ..   
-         `$,`MMMMMMMMMM ?$$$$$$$$$$$$$$$$$$$,                      .,<CCCC> 
-          "$c"MMMMMMMMMb "$$$$$$$$$$$$$$$$$$$$,            zd$$c   CCCCCCCC> 
-           `?b.TMMMMMMMMM.`?$$$$$$$$$$$$$$$$."$$c        z$$$$$$P  CC<CCCC'> 
-             $$c`4MMMMMMMMn ?$$$$$$$$$$$$$$$$e."$$c,    z$$$$$$$$, `C C''   
-             $$$$c"MMMMMMMMM.?$$$$$$$$$$$$$$$$$" ?$$c  d$$$$$$$$$$ `><'     
-             $$$$$.)MMMMMMMMb $$$$$$$$$$$$$$$$$$r4$$$$,`$$$$$$$$$$b  $b     
-             ?$$$$b MMMMMMMMM,`$$$$$$$$$$$$$$$$L"4$$$$$c`$$$$$$$$$$ L`$     
-              $$$$$.)MMMMMMMMM $$$$$$$$$$$$$$$$$ d$$$$$$ $$$$$$$$$$r4 ?L    
-              ?$$$$b MMMMMMMMMx`$$$$$$$$$$$$$$$$-4$$$$$$$$$$$$$$$$$F4$ $,   
-               $$$$$ 4MMMMMMMMM,?$$$$$$$$$$$$$$$ nn"$$$$$$$$$$$$$$$"4$,?b   
-               `$$$$b MMMMMMMMMM $$$$$$$$$$$$$$$ MMC "$$$$$$$$$$$$$ 4$$ $,  
-                $$$$$c`MMMMMMMMM>`$$$$$$$$$$$$$$ MMMh $$$$$$$$$$$$$ $$$ $$  
-         , ,,   $$$$$$c`MMMMMMMMM $$$$$$$$$$$$$F MMMML`$$$$$$$$$$P d$$$ $$, 
-     4 c",$$$$",,CC$$$$b TMMMMMMM $$$$$$$$$$$$$F.MMMMM `$$$$$$$$".$$$$P $$F 
-     P<$ $$$$ d$$$$$$$$$$- "TTMMP $$$$$$$$$$$$$ 4MMMMP,$$$$$$??"== .`.,d$$F 
-     4`$ $$$$ $$$$$$$$$",c=",,   $$$$$$$$$$$$$$ MMMM"z$$$$$bc$$$$$b ccc`$P' 
-       ",?$$$ $$$$$$$$"4$"d$$$P"',))$$$$$$$$$$'JMMM d$$$$$$$$$$$$$$F4$$F'   
-        ` "?$,`$$$$$$F $F<$$$"z$$$$",zcJ3$$$$ `TTT 4$$$$$$$$$$$$$$$"J$$F,   
-               `"""    $ <$$F.$$$$"z$$$$$$$$"      '$$$$$$$$$????",c$$",$   
-                       `\`$$F<$$$$ $$$$$$$$$             """"??$C"??",c$"   
-                          `"? ?$$F-$$$$$$P"                     ?/????""z   
-                                `" "???"                         ?$$c$$P"   
-                                                                   ""   			long live the king
 
+	          =4c,.
+   ,dP""-`$$$c
+ ,$" ,!!! $$$$$c,. .,,.
+,P',!!!!!>?$$$$$$$$$$$$$$$$$cc,
+d  <!!!'-  $$$$$$$$$$$$$$$$$$$$$$c, .,,,ccccc,
+4$'`!!!!>  `$P".,."$$$$$$$$$$$$$$$$b,"$$$$"  ?c,
+ ?c '!!!:',$",$$$$$c"$$$$$$$$$$$$$$$$c`?""-!> $F
+  `"bc,``,$F,$"" `"$b`$$$$$$$$$$$$$$$P" <;`!> $'
+      `" $$ ,",??$c`$c`$$$$$$$$$$$$",c$b ` ',d'
+        d$$F3     3F$$ $$$$$$$$$$P  ,,`"<!`z"
+        $$$$c\.   ,"$'J$$$$$$$$$$  "?$ <r="
+        $$$$$$c   "`P,$$$$$$$$$$F    ,"
+        `$$$$$$$$be..$?$$$$$$$$$b .,,c$
+         `?$$$$$$$$$$","???$$$$$$c3$$$P
+           "?$$$$$" 4$$c,`::."".- 4$P"
+           `$,"?$$$ `$$$$$c,`,ccP `
+            ?$$ `""db,""""`"`??",c
+             ?FJMx $$$$$$$$$$$$'$Lc
+            dF MMM,"$$$$$$$$$$",$$$b,
+           d$P,MMMMn,,."??""",d$$$$$$b,
+          z$P MMMMMMMMMMMP )$$$$$$$$$$$c
+         ,$",MMMMMMMMMMMP d$$$$$$$$$$$$$,
+        ,$',MMMMMMMMMMMP $$$$$$$$$$$$$$$$
+        4$ 3MMMMMMMMMMM $$$$$$$$$$$$$$$$$,
+        4$ 4MMMMMMMMMM><$$$$$$$$$$$$$$$$$b
+        `$h`4MMMMMMMMM>`$$$$$$$$$$$$$$$$$$,                            ..
+         `$,`MMMMMMMMMM ?$$$$$$$$$$$$$$$$$$$,                      .,<CCCC>
+          "$c"MMMMMMMMMb "$$$$$$$$$$$$$$$$$$$$,            zd$$c   CCCCCCCC>
+           `?b.TMMMMMMMMM.`?$$$$$$$$$$$$$$$$."$$c        z$$$$$$P  CC<CCCC'>
+             $$c`4MMMMMMMMn ?$$$$$$$$$$$$$$$$e."$$c,    z$$$$$$$$, `C C''
+             $$$$c"MMMMMMMMM.?$$$$$$$$$$$$$$$$$" ?$$c  d$$$$$$$$$$ `><'
+             $$$$$.)MMMMMMMMb $$$$$$$$$$$$$$$$$$r4$$$$,`$$$$$$$$$$b  $b
+             ?$$$$b MMMMMMMMM,`$$$$$$$$$$$$$$$$L"4$$$$$c`$$$$$$$$$$ L`$
+              $$$$$.)MMMMMMMMM $$$$$$$$$$$$$$$$$ d$$$$$$ $$$$$$$$$$r4 ?L
+              ?$$$$b MMMMMMMMMx`$$$$$$$$$$$$$$$$-4$$$$$$$$$$$$$$$$$F4$ $,
+               $$$$$ 4MMMMMMMMM,?$$$$$$$$$$$$$$$ nn"$$$$$$$$$$$$$$$"4$,?b
+               `$$$$b MMMMMMMMMM $$$$$$$$$$$$$$$ MMC "$$$$$$$$$$$$$ 4$$ $,
+                $$$$$c`MMMMMMMMM>`$$$$$$$$$$$$$$ MMMh $$$$$$$$$$$$$ $$$ $$
+         , ,,   $$$$$$c`MMMMMMMMM $$$$$$$$$$$$$F MMMML`$$$$$$$$$$P d$$$ $$,
+     4 c",$$$$",,CC$$$$b TMMMMMMM $$$$$$$$$$$$$F.MMMMM `$$$$$$$$".$$$$P $$F
+     P<$ $$$$ d$$$$$$$$$$- "TTMMP $$$$$$$$$$$$$ 4MMMMP,$$$$$$??"== .`.,d$$F
+     4`$ $$$$ $$$$$$$$$",c=",,   $$$$$$$$$$$$$$ MMMM"z$$$$$bc$$$$$b ccc`$P'
+       ",?$$$ $$$$$$$$"4$"d$$$P"',))$$$$$$$$$$'JMMM d$$$$$$$$$$$$$$F4$$F'
+        ` "?$,`$$$$$$F $F<$$$"z$$$$",zcJ3$$$$ `TTT 4$$$$$$$$$$$$$$$"J$$F,
+               `"""    $ <$$F.$$$$"z$$$$$$$$"      '$$$$$$$$$????",c$$",$
+                       `\`$$F<$$$$ $$$$$$$$$             """"??$C"??",c$"
+                          `"? ?$$F-$$$$$$P"                     ?/????""z
+                                `" "???"                         ?$$c$$P"
+                                                                   ""   long live the king
 
-############################################################# 
-###################################################   ####### 
+#############################################################
+###################################################   #######
 ###############################################   /~\   #####
 ############################################   _- `~~~', ####
 ##########################################  _-~       )  ####
@@ -942,15 +873,15 @@ _____r"⌒　Ｚ__
 　＜d ﾟ ｰﾟﾉ
    <^､∀i>
   (/7===i､)
- 〈　/　ｊ
-  i_/ﾞt_i
+   〈　/　ｊ
+   i_/ﾞt_i
 
 ────────────────────────────────
 ───────────────██████████───────
 ──────────────████████████──────
 ──────────────██────────██──────
 ──────────────██▄▄▄▄▄▄▄▄▄█──────
-──────────────██▀███─███▀█────── 
+──────────────██▀███─███▀█──────
 █─────────────▀█────────█▀──────
 ██──────────────────█───────────
 ─█──────────────██──────────────
@@ -971,8 +902,6 @@ _____r"⌒　Ｚ__
 ────────────────────██████───▀
 ────────────────────▀▄▄▄▄▀
 
-  
-  
 .....__...________...__.........................
 ....|  |_|        |_|  |........Bork............
 ....|                  |___.........Bork........
@@ -991,7 +920,6 @@ _____r"⌒　Ｚ__
 .....|   |...|    |........|    _|....|    |....
 .....|  _|...|  _|.........|  _|......|  _|.....
 .....|_|.....|_|...........|_|........|_|.......
-
 
                                                  /===-_---~~~~~~~~~------____
                                                 |===-~___                _,-'
@@ -1022,55 +950,49 @@ _____r"⌒　Ｚ__
   ' ') '( (/
     '   '  `
 	Here be Dragons.
-	
-	                      ud$$$**$$$$$$$bc.                          
-                          u@**"        4$$$$$$$Nu                       
-                        J                ""#$$$$$$r                     
-                       @                       $$$$b                    
-                     .F                        ^*3$$$                   
-                    :% 4                         J$$$N                  
-                    $  :F                       :$$$$$                  
-                   4F  9                       J$$$$$$$                 
-                   4$   k             4$$$$bed$$$$$$$$$                 
-                   $$r  'F            $$$$$$$$$$$$$$$$$r                
-                   $$$   b.           $$$$$$$$$$$$$$$$$N                
-                   $$$$$k 3eeed$$b    $$$Euec."$$$$$$$$$                
-    .@$**N.        $$$$$" $$$$$$F'L $$$$$$$$$$$  $$$$$$$                
-    :$$L  'L       $$$$$ 4$$$$$$  * $$$$$$$$$$F  $$$$$$F         edNc   
-   @$$$$N  ^k      $$$$$  3$$$$*%   $F4$$$$$$$   $$$$$"        d"  z$N  
-   $$$$$$   ^k     '$$$"   #$$$F   .$  $$$$$c.u@$$$          J"  @$$$$r 
-   $$$$$$$b   *u    ^$L            $$  $$$$$$$$$$$$u@       $$  d$$$$$$ 
-    ^$$$$$$.    "NL   "N. z@*     $$$  $$$$$$$$$$$$$P      $P  d$$$$$$$ 
-       ^"*$$$$b   '*L   9$E      4$$$  d$$$$$$$$$$$"     d*   J$$$$$r   
-            ^$$$$u  '$.  $$$L     "#" d$$$$$$".@$$    .@$"  z$$$$*"     
-              ^$$$$. ^$N.3$$$       4u$$$$$$$ 4$$$  u$*" z$$$"          
-                '*$$$$$$$$ *$b      J$$$$$$$b u$$P $"  d$$P             
-                   #$$$$$$ 4$ 3*$"$*$ $"$'c@@$$$$ .u@$$$P               
-                     "$$$$  ""F~$ $uNr$$$^&J$$$$F $$$$#                 
-                       "$$    "$$$bd$.$W$$$$$$$$F $$"                   
-                         ?k         ?$$$$$$$$$$$F'*                     
-                          9$$bL     z$$$$$$$$$$$F                       
-                           $$$$    $$$$$$$$$$$$$                        
-                            '#$$c  '$$$$$$$$$"                          
-                             .@"#$$$$$$$$$$$$b                          
-                           z*      $$$$$$$$$$$$N.                       
-                         e"      z$$"  #$$$k  '*$$.                     
-                     .u*      u@$P"      '#$$c   "$$c                   
-              u@$*"""       d$$"            "$$$u  ^*$$b.               
-            :$F           J$P"                ^$$$c   '"$$$$$$bL        
-           d$$  ..      @$#                      #$$b         '#$       
-           9$$$$$$b   4$$                          ^$$k         '$      
-            "$$6""$b u$$                             '$    d$$$$$P      
-              '$F $$$$$"                              ^b  ^$$$$b$       
-               '$W$$$$"                                'b@$$$$"         
-                                                        ^$$$* 
+
+	                      ud$$$**$$$$$$$bc.
+                          u@**"        4$$$$$$$Nu
+                        J                ""#$$$$$$r
+                       @                       $$$$b
+                     .F                        ^*3$$$
+                    :% 4                         J$$$N
+                    $  :F                       :$$$$$
+                   4F  9                       J$$$$$$$
+                   4$   k             4$$$$bed$$$$$$$$$
+                   $$r  'F            $$$$$$$$$$$$$$$$$r
+                   $$$   b.           $$$$$$$$$$$$$$$$$N
+                   $$$$$k 3eeed$$b    $$$Euec."$$$$$$$$$
+    .@$**N.        $$$$$" $$$$$$F'L $$$$$$$$$$$  $$$$$$$
+    :$$L  'L       $$$$$ 4$$$$$$  * $$$$$$$$$$F  $$$$$$F         edNc
+   @$$$$N  ^k      $$$$$  3$$$$*%   $F4$$$$$$$   $$$$$"        d"  z$N
+   $$$$$$   ^k     '$$$"   #$$$F   .$  $$$$$c.u@$$$          J"  @$$$$r
+   $$$$$$$b   *u    ^$L            $$  $$$$$$$$$$$$u@       $$  d$$$$$$
+    ^$$$$$$.    "NL   "N. z@*     $$$  $$$$$$$$$$$$$P      $P  d$$$$$$$
+       ^"*$$$$b   '*L   9$E      4$$$  d$$$$$$$$$$$"     d*   J$$$$$r
+            ^$$$$u  '$.  $$$L     "#" d$$$$$$".@$$    .@$"  z$$$$*"
+              ^$$$$. ^$N.3$$$       4u$$$$$$$ 4$$$  u$*" z$$$"
+                '*$$$$$$$$ *$b      J$$$$$$$b u$$P $"  d$$P
+                   #$$$$$$ 4$ 3*$"$*$ $"$'c@@$$$$ .u@$$$P
+                     "$$$$  ""F~$ $uNr$$$^&J$$$$F $$$$#
+                       "$$    "$$$bd$.$W$$$$$$$$F $$"
+                         ?k         ?$$$$$$$$$$$F'*
+                          9$$bL     z$$$$$$$$$$$F
+                           $$$$    $$$$$$$$$$$$$
+                            '#$$c  '$$$$$$$$$"
+                             .@"#$$$$$$$$$$$$b
+                           z*      $$$$$$$$$$$$N.
+                         e"      z$$"  #$$$k  '*$$.
+                     .u*      u@$P"      '#$$c   "$$c
+              u@$*"""       d$$"            "$$$u  ^*$$b.
+            :$F           J$P"                ^$$$c   '"$$$$$$bL
+           d$$  ..      @$#                      #$$b         '#$
+           9$$$$$$b   4$$                          ^$$k         '$
+            "$$6""$b u$$                             '$    d$$$$$P
+              '$F $$$$$"                              ^b  ^$$$$b$
+               '$W$$$$"                                'b@$$$$"
+                                                        ^$$$*
 				comming for the booty, yar har maties	
-
-
-
-
-
-
 
            		,--,_
                  __    _\.---'-.
@@ -1081,13 +1003,11 @@ _____r"⌒　Ｚ__
                     .-'---./_    __
                    /o \\     "-.' / ~~~
                    \  //    _.-'._\        ~~~
-                    `"\)--"`						
-
-
+                    `"\)--"`
 
 ¯\_(ツ)_/¯ 
 
- _    _  ___                             _         
+ _    _  ___                             _
 ( )  ( )/  _)                           ( ) __  __ 
 | |__| |\_"-.  ___  _ _  ___  __  ___  _| |(o )(o )
 ( '  ` ) __) )/ o )( U )( o )( _)( o_)/ o )/o \/o \
@@ -1101,8 +1021,8 @@ _____r"⌒　Ｚ__
   .`    '_.-(  9``````````P  )--...)   `.
  ` ((     `  || __         ||   `     )) `
 (          ) |<`  ````---__||  (          )
- `        `  ||) ,xx  xx.  //)__`        `  
-  `-____-`   ,/  O`  O`   //,'_ )`-____-` 
+ `        `  ||) ,xx  xx.  //)__`        `
+  `-____-`   ,/  O`  O`   //,'_ )`-____-`
            ,/     ,,     //  |//
           /      ((          //
          (   (._    _,)     (_) -OH YEAH!
@@ -1122,188 +1042,174 @@ _____r"⌒　Ｚ__
            |     ||   ||   ||_/
            |_|_|_||_|_||_\_|<_>
 
-		                                                                                       
-                                                                                    
-  
 あああああああああああああああー！
-                                                                                  
-                                                                                    
-                                                                                    
-                                                                                    
-                                        .''                                         
-                                      ,:.,                                          
-                                     ;...:                                          
-                                    ;....                                           
-                              .:   +....,                                           
-                         :++#,.;  `.....,         ':                                
-                      .;.....:.,  ;,,,,,,#       `,.#                               
-                     '......:...+ +,,,,,,,+,:'',`:,.:`+':,,;':                      
-                   .,.......+..,,##,,,,,,,,,,,,':,,,:..........+                    
-                  `,........+,,,,,',,,,,,,,,,,,,,,,,+............;                  
-                  :........,+,,,,,,,,,,,,,,,,,,,,,,,:.............+                 
-                 +........,,:,,,,,,+,,,,,,,,,,,,,,,+...............,                
-                ..........,,,',,,,,,:,,,,,,,,,,,,,,,,..............,                
-                '........,,,,,:,,,,,,;,,,,,,,,,,,,,,,,,............,;               
-                ........,,,,,,,,:;,,,,+,,,,,,,,,,,,,,,,,,.......,,,,'               
-               ,,,....,,,,,,,,,,,.;##:,,,,,,,,,,,,,,,,,,,,...,,,,,,,:               
-               +,,,,,,,,,,,,,,,,,:....,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,',              
-               #,,,,,,,,,,,,:',,,;...,,,,,:,,,,,,,,+,,,,,,,,,,,,,,,,,+              
-               :',,,,,,,,,::::,,,,+..,,,,,,,,,,,,,,:::,,,,,,,,,,,,,' +              
-               , +,,,,::::;:',,,,,,',,,,':,,,,,,,,,,':::,,,,,,,,,,:  +              
-               ;``.#'::;;;;+,,,,,,,,,:':,,,,,,,,,,,,,;:::::,,,,,,,` `,              
-               +,,,,,,,;;:+,,,,,,,,,,,,,,,,,,,,,,,,,,:::;::;::::;....               
-               ,,,,,,,,,':,,,,,,,,,,,,,,,,,,,,,,,,,,,,:;;:;;:;;',,,,:               
-                ;,,,,,';,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+;:;+;,,,,,.:               
-                 `:::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:'+,,...,;;                
-              :;.,+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:::::;;+,.:+:              
-               ...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;:,,,,,::::::::::::,               
-               '...,,,,,,,,::,:',,,,,,,,,,,,,,,+.,,::,,:::::::::::::+               
-                ,...,,,',,: ,,,,',,,,,,,,,,,,,: .:,.,,::::::::::::;'                
-                .:..,,#,,,, ;'+,,,,,,,,,,,,,,,` +'';,+::::;::;:;::+                 
-                  `::,,,,,.,'''',;,,,,,,,,,,,'.;'''',;::;;:'+;;'+`                  
-                    +,,,,;,:'''+.',,,,,,,,,,,'.';;;+:::;;;:;;'                      
-                #``+..,,,,..;;:;.;,,,,,,,,,,,:..:;;+,';;;;;;;;+                     
-                '......,,,;..';..,,,,,,,,,,,,,:,:+;,,';;;;;;;;;+                    
-                 ......,,,:.....;,,,,,,,,,,,::;:,,,,#;;;;;;;;;;:';`                 
-                 ;.....,,,,,':':,,,,,,,,::::;;;;'++;;;;;;:;:::::::,`                
-                  ;,.,,,+,,,,,,,,,,:::::;;;;;:;;;;;;;;;::#::;::::,;                 
-                    ,;;` ;:::::::::;;;'';;::;;;;;;:::::;' ,;::::+`                  
-                          ::;;;;::;;::::::;;;::::;:;:::+    `,.                     
-                           `';;;::;;::::;;::::::;:::::'                             
-                             ';;;:;:::::::::::::::::+                               
-                             ` ;'::::;;;;;:::::::;+`                                
-                             ++';##';::::::;;;'#.  +;                               
-                             +:::::::::;:::;;:;;;';;'                               
-                             `:::::'+'+;::::::::;;;;#                               
-                              #::+:':::::::::::::';'                                
-                               ++:+'::::::::,,,,,:'.                                
-                               ',,.:#::::::,,,,,,,;   ;                             
-                              ,,,':..,;,,,,,,,,,,,,+  '#                            
-                              ,,,,;.,,,,,,;,,,,,,',,, #;.                           
-                             ',,:,,::,,,,',,,,,,,',,,,;;#                           
-                            +,,,+,,,,;++:,,,,,,,,,,,,+;;'                           
-                           . ,,,:,,,,,,,,,,,,,,,,,',,'+;;`                          
-                           , :,,,,,,,,,,,,,,,,,,,,+,' `;;`                          
-                          ;    +,,,,,,,,,,,,,,,,,,:+   :;                           
-                         #    ++,,,,,,,,,,,,,,,,,,,.    +                           
-                         '  ;, :,,,,,,,,,,,,,,,,,,,':    +                          
-                              `,,,,,,,,,,,,,,,,,,,,,;+',:.                          
-                         `    ;,,,,,,,,,,,,,,,,,,,,,:+'` `                          
-                         +:;+,,,,,,,,,,,,,,,,,,,,,,,,,,':'                          
-                         +...,,,,,,,,,,,,,,,,,,,,,,,,.....                          
-                         .....,,,,,,,,,,,,,,,,,,,,,,,...'                           
-                          #...,,,:;:::,,,,,,,,,:::',,..:`                           
-                           ;:,,,;;;;;;;:::::;;;;;;;+''+                             
-                              `':;;;;;:;;;:::;;;;;;'                                
-                               +;;;:::;+   ,;;;;;;;+                                
-                               `;;:::::`    ;;;;;;;:                                
-                                +:;:;;;     #;:;;;;                                 
-                                ,,'++#;     `+''+'+                                 
-                                 +,,,:       +.,,.                                  
-                                  ',,`        #,,;                                  
-                                   +.          :;                  
 
-		   
+                                        .''
+                                      ,:.,
+                                     ;...:
+                                    ;....
+                              .:   +....,
+                         :++#,.;  `.....,         ':
+                      .;.....:.,  ;,,,,,,#       `,.#
+                     '......:...+ +,,,,,,,+,:'',`:,.:`+':,,;':
+                   .,.......+..,,##,,,,,,,,,,,,':,,,:..........+
+                  `,........+,,,,,',,,,,,,,,,,,,,,,,+............;
+                  :........,+,,,,,,,,,,,,,,,,,,,,,,,:.............+
+                 +........,,:,,,,,,+,,,,,,,,,,,,,,,+...............,
+                ..........,,,',,,,,,:,,,,,,,,,,,,,,,,..............,
+                '........,,,,,:,,,,,,;,,,,,,,,,,,,,,,,,............,;
+                ........,,,,,,,,:;,,,,+,,,,,,,,,,,,,,,,,,.......,,,,'
+               ,,,....,,,,,,,,,,,.;##:,,,,,,,,,,,,,,,,,,,,...,,,,,,,:
+               +,,,,,,,,,,,,,,,,,:....,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,',
+               #,,,,,,,,,,,,:',,,;...,,,,,:,,,,,,,,+,,,,,,,,,,,,,,,,,+
+               :',,,,,,,,,::::,,,,+..,,,,,,,,,,,,,,:::,,,,,,,,,,,,,' +
+               , +,,,,::::;:',,,,,,',,,,':,,,,,,,,,,':::,,,,,,,,,,:  +
+               ;``.#'::;;;;+,,,,,,,,,:':,,,,,,,,,,,,,;:::::,,,,,,,` `,
+               +,,,,,,,;;:+,,,,,,,,,,,,,,,,,,,,,,,,,,:::;::;::::;....
+               ,,,,,,,,,':,,,,,,,,,,,,,,,,,,,,,,,,,,,,:;;:;;:;;',,,,:
+                ;,,,,,';,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+;:;+;,,,,,.:
+                 `:::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:'+,,...,;;
+              :;.,+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:::::;;+,.:+:
+               ...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;:,,,,,::::::::::::,
+               '...,,,,,,,,::,:',,,,,,,,,,,,,,,+.,,::,,:::::::::::::+
+                ,...,,,',,: ,,,,',,,,,,,,,,,,,: .:,.,,::::::::::::;'
+                .:..,,#,,,, ;'+,,,,,,,,,,,,,,,` +'';,+::::;::;:;::+
+                  `::,,,,,.,'''',;,,,,,,,,,,,'.;'''',;::;;:'+;;'+`
+                    +,,,,;,:'''+.',,,,,,,,,,,'.';;;+:::;;;:;;'
+                #``+..,,,,..;;:;.;,,,,,,,,,,,:..:;;+,';;;;;;;;+
+                '......,,,;..';..,,,,,,,,,,,,,:,:+;,,';;;;;;;;;+
+                 ......,,,:.....;,,,,,,,,,,,::;:,,,,#;;;;;;;;;;:';`
+                 ;.....,,,,,':':,,,,,,,,::::;;;;'++;;;;;;:;:::::::,`
+                  ;,.,,,+,,,,,,,,,,:::::;;;;;:;;;;;;;;;::#::;::::,;
+                    ,;;` ;:::::::::;;;'';;::;;;;;;:::::;' ,;::::+`
+                          ::;;;;::;;::::::;;;::::;:;:::+    `,.
+                           `';;;::;;::::;;::::::;:::::'
+                             ';;;:;:::::::::::::::::+
+                             ` ;'::::;;;;;:::::::;+`
+                             ++';##';::::::;;;'#.  +;
+                             +:::::::::;:::;;:;;;';;'
+                             `:::::'+'+;::::::::;;;;#
+                              #::+:':::::::::::::';'
+                               ++:+'::::::::,,,,,:'.
+                               ',,.:#::::::,,,,,,,;   ;
+                              ,,,':..,;,,,,,,,,,,,,+  '#
+                              ,,,,;.,,,,,,;,,,,,,',,, #;.
+                             ',,:,,::,,,,',,,,,,,',,,,;;#
+                            +,,,+,,,,;++:,,,,,,,,,,,,+;;'
+                           . ,,,:,,,,,,,,,,,,,,,,,',,'+;;`
+                           , :,,,,,,,,,,,,,,,,,,,,+,' `;;`
+                          ;    +,,,,,,,,,,,,,,,,,,:+   :;
+                         #    ++,,,,,,,,,,,,,,,,,,,.    +
+                         '  ;, :,,,,,,,,,,,,,,,,,,,':    +
+                              `,,,,,,,,,,,,,,,,,,,,,;+',:.
+                         `    ;,,,,,,,,,,,,,,,,,,,,,:+'` `
+                         +:;+,,,,,,,,,,,,,,,,,,,,,,,,,,':'
+                         +...,,,,,,,,,,,,,,,,,,,,,,,,.....
+                         .....,,,,,,,,,,,,,,,,,,,,,,,...'
+                          #...,,,:;:::,,,,,,,,,:::',,..:`
+                           ;:,,,;;;;;;;:::::;;;;;;;+''+
+                              `':;;;;;:;;;:::;;;;;;'
+                               +;;;:::;+   ,;;;;;;;+
+                               `;;:::::`    ;;;;;;;:
+                                +:;:;;;     #;:;;;;
+                                ,,'++#;     `+''+'+
+                                 +,,,:       +.,,.
+                                  ',,`        #,,;
+                                   +.          :;
 
-
-                             ,..oooooooooob..                         
-                       ,.dodOOOO"""""":"ooPO88bo..                     
-                     .o8O""" '            "'"""PO8b.                   
-                 .dd8P'"                       ''::Y8o.               
-               ,d8Po'                             "':7Ob;             
-              d8P::'                                 ';:8b.           
-            ;d8''"                                     ';Y8;           
-          ,d8O:'                                        ';:8b.         
-         ,88o:'                                           ';Yb.       
-        ,8P::'                                           . ';Yb       
-       ,8o;:'                                          ,;'  ':8b       
-      ,8:::'                                           ;:    :;8b     
-     d8o;::                                            o:     ::8,     
-    ,8':::                                            :::     :;Y8     
-    8'oo:'                                            :::     :::8:   
-   dP;:YO                                             ':::;.;;:::Y8.   
-  ,8:::;Yb                                            :b::::::::::8b   
-  dO;::::8b                                           'Yb::::::::::8. 
- ,8;:::::O8,                                           'Y88::::::::8: 
- 8P;::::::88                                             `8O::::::::O 
- d::::::::88:                                             O8;:::::::8 
- 8:::::::888:                                             88b:::::::O: 
-,8::::::::88:                                            :888Oooo::;Y: 
-dO:::::::bO8:             ..:.::::::::::...:             :888888P;::db 
-OP:::::::O88:         ..o8888:::::::::::::)8888bo..       O8888O:::::8 
-O;::::::::88'    ..od888888888::::"""":::88888888888oo;   `8888;:::::8 
-O:::ob:::;8:  ,d88888888888888::       ':88888888888888b;  '"88;:::::8 
-OO::;Yo::OP' d888888888888888O:'      ,.;8888888888888888b  ,88::::::8 
-YO:::;Y::Ob ,8888888888888888;::       :;88888888888888888  :88::::::8 
- 8;::::b;8' :8888888888888888o::        ':8888888888888888  :888d::)88 
- Y:::::88P   888888888888888888'         'O888888888888888  :88888888P 
- `b:::;8O    d888888888888888P'          ,8888888888888888  '88888888: 
-  Y::::8:   ,88888888888888P:      ..    '8888888888888888   Y8888888: 
-  8O::;8'   :88888888888888:      d88,   ':Y88888888888888   '8888888: 
-  'YbooO    :8888888888P:8P:     :8888:    '':Y8888888888P    "Y888YP 
-   '888:     8888888P:;'8O:'     :8P88b       '"O888888P"       ;:;o' 
-    `88:     "oOOo:.::)O:;:      :8:888.        :8b'            :::'   
-     88:      '"""" ,do;:'      ,88bO88b     ,.o::PO:;.;.      :::'   
-     88';           :' `Yb      d88O`888b    O8"::::o::::::::::o:;     
-     8O::b         ;:   ''     d88Po O888    :8;:""" '";88::::o:::     
-     YO:;Yb    :o.;::          O8P.: O888     'Y::    :YO8b:::::O'     
-      Y:::8b  o;O:::;.         OO;:: OO;'       ''"  .;bO88"d:od'     
-      `b::;8: :8bo::::;.       OO::: OK:          ,;:8888P',8OP"       
-       Yb:;OO  O888b::::;.     'O:O",;"'          ;o8888P  :O"         
-       '`Y888. :88888::::::     ':' db           ;o8888P   8P         
-          '`8;  O8888::::::        '8'          :o8888P   :8'         
-            OO: :8888::::::         Y:         ,::;888'   :8           
-            `8,  o888"::::'          '         ;:::88:    OP           
-            ,8:   O888O8POYOOO"OPOOPYO8OO8OO888888888'    O:           
-            88:   '888o::o':Y: d  O  'Y:'8: O"Y:`K:8o;    8'           
-           88O;    ;88o;:::: : :  :   '  `:   '  ,:8 :   :8           
-           O8O:.  ,:OP"8bd;':: d...      ,.  .db.'"8 ::  :O  -hrr-     
-          ,88O::. ;:O: O"'"YP"YPYP'YO"""`8K`O"O `b:O.:;  :O           
-          888o:::.:;Ob : :::: :::: :P ,  OO : :  O;:::: ;:O           
-          888O::::::::`dbd::b.d::: :: db ::,d.8o;O;::::::dP           
-           888::::::::;:"""""Y8888od8d88o8P""'"  ':::::'d'             
-           "Y88Odo:"::::         `""""'           ':::)P'             
-             ""88888O:::                          ;::dP               
-                '""88O:::                   oo;  ;O88'                 
-                   `Y8O::.  ,.      .      '8b::O88'                   
-                     Y8b::. ,)O   ,;'        ::O88'                   
-                      '88d:..:   ,d:        ;'d88'                     
-                       'Y88d::;.;:8b,   ,..:O88P'                     
-                         ""88oodO888O::::bd88P'                       
-                           '`8888888888888P"'                         
+                             ,..oooooooooob..
+                       ,.dodOOOO"""""":"ooPO88bo..
+                     .o8O""" '            "'"""PO8b.
+                 .dd8P'"                       ''::Y8o.
+               ,d8Po'                             "':7Ob;
+              d8P::'                                 ';:8b.
+            ;d8''"                                     ';Y8;
+          ,d8O:'                                        ';:8b.
+         ,88o:'                                           ';Yb.
+        ,8P::'                                           . ';Yb
+       ,8o;:'                                          ,;'  ':8b
+      ,8:::'                                           ;:    :;8b
+     d8o;::                                            o:     ::8,
+    ,8':::                                            :::     :;Y8
+    8'oo:'                                            :::     :::8:
+   dP;:YO                                             ':::;.;;:::Y8.
+  ,8:::;Yb                                            :b::::::::::8b
+  dO;::::8b                                           'Yb::::::::::8.
+ ,8;:::::O8,                                           'Y88::::::::8:
+ 8P;::::::88                                             `8O::::::::O
+ d::::::::88:                                             O8;:::::::8
+ 8:::::::888:                                             88b:::::::O:
+,8::::::::88:                                            :888Oooo::;Y:
+dO:::::::bO8:             ..:.::::::::::...:             :888888P;::db
+OP:::::::O88:         ..o8888:::::::::::::)8888bo..       O8888O:::::8
+O;::::::::88'    ..od888888888::::"""":::88888888888oo;   `8888;:::::8
+O:::ob:::;8:  ,d88888888888888::       ':88888888888888b;  '"88;:::::8
+OO::;Yo::OP' d888888888888888O:'      ,.;8888888888888888b  ,88::::::8
+YO:::;Y::Ob ,8888888888888888;::       :;88888888888888888  :88::::::8
+ 8;::::b;8' :8888888888888888o::        ':8888888888888888  :888d::)88
+ Y:::::88P   888888888888888888'         'O888888888888888  :88888888P
+ `b:::;8O    d888888888888888P'          ,8888888888888888  '88888888:
+  Y::::8:   ,88888888888888P:      ..    '8888888888888888   Y8888888:
+  8O::;8'   :88888888888888:      d88,   ':Y88888888888888   '8888888:
+  'YbooO    :8888888888P:8P:     :8888:    '':Y8888888888P    "Y888YP
+   '888:     8888888P:;'8O:'     :8P88b       '"O888888P"       ;:;o'
+    `88:     "oOOo:.::)O:;:      :8:888.        :8b'            :::'
+     88:      '"""" ,do;:'      ,88bO88b     ,.o::PO:;.;.      :::'
+     88';           :' `Yb      d88O`888b    O8"::::o::::::::::o:;
+     8O::b         ;:   ''     d88Po O888    :8;:""" '";88::::o:::
+     YO:;Yb    :o.;::          O8P.: O888     'Y::    :YO8b:::::O'
+      Y:::8b  o;O:::;.         OO;:: OO;'       ''"  .;bO88"d:od'
+      `b::;8: :8bo::::;.       OO::: OK:          ,;:8888P',8OP"
+       Yb:;OO  O888b::::;.     'O:O",;"'          ;o8888P  :O"
+       '`Y888. :88888::::::     ':' db           ;o8888P   8P
+          '`8;  O8888::::::        '8'          :o8888P   :8'
+            OO: :8888::::::         Y:         ,::;888'   :8
+            `8,  o888"::::'          '         ;:::88:    OP
+            ,8:   O888O8POYOOO"OPOOPYO8OO8OO888888888'    O:
+            88:   '888o::o':Y: d  O  'Y:'8: O"Y:`K:8o;    8'
+           88O;    ;88o;:::: : :  :   '  `:   '  ,:8 :   :8
+           O8O:.  ,:OP"8bd;':: d...      ,.  .db.'"8 ::  :O  -hrr-
+          ,88O::. ;:O: O"'"YP"YPYP'YO"""`8K`O"O `b:O.:;  :O
+          888o:::.:;Ob : :::: :::: :P ,  OO : :  O;:::: ;:O
+          888O::::::::`dbd::b.d::: :: db ::,d.8o;O;::::::dP
+           888::::::::;:"""""Y8888od8d88o8P""'"  ':::::'d'
+           "Y88Odo:"::::         `""""'           ':::)P'
+             ""88888O:::                          ;::dP
+                '""88O:::                   oo;  ;O88'
+                   `Y8O::.  ,.      .      '8b::O88'
+                     Y8b::. ,)O   ,;'        ::O88'
+                      '88d:..:   ,d:        ;'d88'
+                       'Y88d::;.;:8b,   ,..:O88P'
+                         ""88oodO888O::::bd88P'
+                           '`8888888888888P"'
                                  """"""""'
-								 
+
 								 Spooooky
 
-
-
 ............................................________ 
-....................................,.-'"...................``~., 
-.............................,.-"..................................."-., 
-.........................,/...............................................":, 
-.....................,?......................................................, 
-.................../...........................................................,} 
-................./......................................................,:`^`..} 
-.............../...................................................,:"........./ 
-..............?.....__.........................................:`.........../ 
-............./__.(....."~-,_..............................,:`........../ 
-.........../(_...."~,_........"~,_....................,:`........_/ 
-..........{.._$;_......"=,_......."-,_.......,.-~-,},.~";/....} 
-...........((.....*~_......."=-._......";,,./`..../"............../ 
-...,,,___.`~,......"~.,....................`.....}............../ 
-............(....`=-,,.......`........................(......;_,,-" 
-............/.`~,......`-...................................../ 
-.............`~.*-,.....................................|,./.....,__ 
-,,_..........}.>-._...................................|..............`=~-, 
-.....`=~-,__......`,................................. 
-...................`=~-,,.,............................... 
-................................`:,,...........................`..............__ 
-.....................................`=-,...................,%`>--==`` 
-........................................_..........._,-%.......` 
-..................................., 
-
-
-
+....................................,.-'"...................``~.,
+.............................,.-"..................................."-.,
+.........................,/...............................................":,
+.....................,?......................................................,
+.................../...........................................................,}
+................./......................................................,:`^`..}
+.............../...................................................,:"........./
+..............?.....__.........................................:`.........../
+............./__.(....."~-,_..............................,:`........../
+.........../(_...."~,_........"~,_....................,:`........_/
+..........{.._$;_......"=,_......."-,_.......,.-~-,},.~";/....}
+...........((.....*~_......."=-._......";,,./`..../"............../
+...,,,___.`~,......"~.,....................`.....}............../
+............(....`=-,,.......`........................(......;_,,-"
+............/.`~,......`-...................................../
+.............`~.*-,.....................................|,./.....,__
+,,_..........}.>-._...................................|..............`=~-,
+.....`=~-,__......`,.................................
+...................`=~-,,.,...............................
+................................`:,,...........................`..............__
+.....................................`=-,...................,%`>--==``
+........................................_..........._,-%.......`
+...................................,
 
 ________$$$$
 _______$$__$
@@ -1330,17 +1236,16 @@ _____$$$$$$____$$__$$
 _______$_____$$$_$$$
 ________$$$$$$$$$$
 
-
             ,,########################################,,
           .*##############################################*
         ,*####*:::*########***::::::::**######:::*###########,
-      .*####:    *#####*.                 :*###,.#######*,####*.               < Superman Aka Mr. Steal Your Husband
+      .*####:    *#####*.                 :*###,.#######*,####*.   < Superman Aka Mr. Steal Your Husband
      *####:    *#####*                      .###########*  ,####*
   .*####:    ,#######,                        ##########*    :####*
   *####.    :#########*,                       ,,,,,,,,.      ,####:
     ####*  ,##############****************:,,               .####*
      :####*#####################################**,        *####.
-       *############################################*,   :####:                
+       *############################################*,   :####:
         .#############################################*,####*
           :#####:*****#####################################.
             *####:                  .,,,:*****###########,
@@ -1356,7 +1261,6 @@ ________$$$$$$$$$$
                              :####*####*
                                *######,
                                  *##,
-								 
 
 ##############################################################G#####################################
 #########################################GGDDDDDDDDDGGGGGGGGG#G#####################################
@@ -1501,62 +1405,54 @@ GGLKKKKKKKEEEDDDDGGGGLLffffffffffffjffffffffjjjjjLLfjfjjLLLGGGGDDDDDDDDDDDDDEDEE
 ############################WWWKKKKKKKKWWWW#W#######################################################
 #############################WWWWWWWWW##############################################################
 
-
-
-                                                                                                                 
-                                                                  .                                              
-                                              @@                .@@                                              
-                        `                     @@@'             #@@@                                              
-                       :@                     @@@@@           @@@@@                     ;@                       
-                       @@                     @@@@@@.        @@@@@@                     #'                       
-                       @@                     @@@@@@@@     :@@@@@@@                    `@                        
-                     .@@@@`                   @@@@@@@@@   @@@@@@@@@                   ,@@@@.                     
-                  `@@@@@@@@@                  @@@@@@@@@@.@@@@@@@@@:                 `@@@@@@@@@`                  
-                ;@@@@@@@@@@@@@.               .@@@@@@@@@@@@@@@@@@@                `@@@@@@@@@@@@@'                
-              #@@@@@@@@@@@@@@@@@@              @@@@@@@@@@@@@@@@@@.              ,@@@@@@@@@@@@@@@@@@              
-            #@@@@@@@@@@@@@@@@@@@@@@@`           @@@@@@@@@@@@@@@@@             @@@@@@@@@@@@@@@@@@@@@@@            
-          '@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,       :@@@@@@@@@@@@@@@+          #@@@@@@@@@@@@@@@@@@@@@@@@@@+          
-        ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@`    @@@@@@@@@@@@@@@.      :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@`        
-       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@. @@@@@@@@@@@@@@@@'+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       
-     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      
-   .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.    
-  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+   
-  .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  
-     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+; 
-      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     
-       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      
-       +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       
-        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,       
-        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AWK@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        
-        #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        
-        .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        
-                :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:`             
-                  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                 
-                   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                  
-                   #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                   
-                    @@@@:        .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@',.````.:;#@@.                   
-                                     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#                                     
-                                       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                       
-                                         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:                                        
-                                          :@@@@@@@@@@@@@@@@@@@@@@@@@@@@.                                         
-                                           .@@@@@@@@@@@@@@@@@@@@@@@@@@                                           
-                                            @@@@@@@@@@@@@@@@@@@@@@@@@                                            
-                                            @@@@@@@@@@@@@@@@@@@@@@@@@+                                           
-                                          '@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                          
-                                         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                         
-                                        @@@':,:;@@@@@@@@@@@@@@@@;.`   @@@                                        
-                                       :.@          ,@@@@@@@`          @ @                                       
-                                        @             .@@@@            `                                         
-                                                       @@@`                                                      
-                                                       @@@                                                       
-                                                       #@@                                                       
-                                                       `@                                                        
-                                                        @                                                        
-                                                                                                                 
-								 
-
-
-
+                                                                  .
+                                              @@                .@@
+                        `                     @@@'             #@@@
+                       :@                     @@@@@           @@@@@                     ;@
+                       @@                     @@@@@@.        @@@@@@                     #'
+                       @@                     @@@@@@@@     :@@@@@@@                    `@
+                     .@@@@`                   @@@@@@@@@   @@@@@@@@@                   ,@@@@.
+                  `@@@@@@@@@                  @@@@@@@@@@.@@@@@@@@@:                 `@@@@@@@@@`
+                ;@@@@@@@@@@@@@.               .@@@@@@@@@@@@@@@@@@@                `@@@@@@@@@@@@@'
+              #@@@@@@@@@@@@@@@@@@              @@@@@@@@@@@@@@@@@@.              ,@@@@@@@@@@@@@@@@@@
+            #@@@@@@@@@@@@@@@@@@@@@@@`           @@@@@@@@@@@@@@@@@             @@@@@@@@@@@@@@@@@@@@@@@
+          '@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,       :@@@@@@@@@@@@@@@+          #@@@@@@@@@@@@@@@@@@@@@@@@@@+
+        ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@`    @@@@@@@@@@@@@@@.      :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@`
+       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@. @@@@@@@@@@@@@@@@'+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+   .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
+  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+
+  .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+;
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+       +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,
+        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AWK@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:`
+                  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                   #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                    @@@@:        .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@',.````.:;#@@.
+                                     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#
+                                       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                                         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:
+                                          :@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
+                                           .@@@@@@@@@@@@@@@@@@@@@@@@@@
+                                            @@@@@@@@@@@@@@@@@@@@@@@@@
+                                            @@@@@@@@@@@@@@@@@@@@@@@@@+
+                                          '@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                                         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                                        @@@':,:;@@@@@@@@@@@@@@@@;.`   @@@
+                                       :.@          ,@@@@@@@`          @ @
+                                        @             .@@@@            `
+                                                       @@@`
+                                                       @@@
+                                                       #@@
+                                                       `@
+                                                        @
 
             ____________________
            |\                   \      l____
@@ -1567,8 +1463,7 @@ GGLKKKKKKKEEEDDDDGGGGLLffffffffffffjffffffffjjjjjLLfjfjjLLLGGGGDDDDDDDDDDDDDEDEE
      \ \[__]\[____________________] \[__]|__|..___]
       \/.-.\_______________________\/.-.\____\/.-.\
        ( @ )                        ( @ )  =  ( @ )
-        `-'                          `-'       `-' 
-
+        `-'                          `-'       `-'
 
          /\_/\
     ____/ o o \
@@ -1601,7 +1496,6 @@ GGLKKKKKKKEEEDDDDGGGGLLffffffffffffjffffffffjjjjjLLfjfjjLLLGGGGDDDDDDDDDDDDDEDEE
 ██████░▀▀█▄░░░█▄░░░░
 ░▀▀▀▀█▄▄▀░██████▄░░░░
 ░░░░░░░░░█████████░░░░
-
 
                         ²²²²  ²²²²  ²
                                 ²±±² ²²±±±² ²²
@@ -1651,79 +1545,65 @@ GGLKKKKKKKEEEDDDDGGGGLLffffffffffffjffffffffjjjjjLLfjfjjLLLGGGGDDDDDDDDDDDDDEDEE
      ( ( )(_______ \\\\\\\\\\\\
       " "
 	  
-	  
-	  
-	  
-	  
-	  
-                                                                                                                     
-                                                                                                                     
-                                                                                                                     
-                                                                                                                     
-                                                                                                                     
-                                    .:,,:,,,::,,,,,,,,,,,,,.,,...`..`                                                
-                               .::,:,:::::,,,,:::,::::::::::::::,,,,,...`.``                                         
-                            :,;;;::;.;@###++++++++#############+++';;;';:,,.`,.                                      
-                          :;;,:'''+,`;#++################+++++++'''';;;;:::,,,,.                                     
-                         ;,:'+#++#+:`:#+#################++++++++''''';;;;:::,,..                                    
-                        :++++##++++:`:#+####################+++++++'''';;;;:::,,..                                   
-                       ,;++++#+++++;`,#'+####################+++++++'''''';;:::,,..                                  
-                       ,++++++++'++;`.#'++++++++++++##########+++++'''''''';::::,,.`                                 
-                      .;'++'++++''';``+''+#+++++++++++++++++#####+++'''''''';;:::,,,`                                
-                      ,#''''+++'''''. +''++++++++++++++++++++####++++'''''''';;:::,,:                                
-                      ,''''+++''''''. ++'++#+++++++++++++++++####+++++'++'''';;::::,,;`                              
-                     ,#''';'''+''''+, +++++#++++++++++######++#####++++++'''';;;::::,,;`                             
-                     .+'''''''';'''+, +++++#++++++#+#++#####++#######+++++'''';;;::::,:,                             
-                    .,;;`'++'';;;;'+,`'++#@@@@@@@@#@##@,:::+++'''''''''';;;;;;;;';::::,,`  #:::`                     
-                    .#;;.'++++';;;+':+,:.``````.,:;;;;;;;;;;;::::::::,,,,,,,,,....`.,,,,:` @+';;                     
-                    .#;;,'++++++''',::,;...`````````` `.::,,,,,,,,,,,,.............```.`````   :                     
-                   .`;:;:+++++#'';#:::::::::::::::::.`  `  :::;;;;;;:::,,,,,,,,............````                      
-                   .+:::+#########':::::,,,,,``,.......,,`...:::::::::::::::::::,,,,,......`````   ``                
-                   .;';:,,;+@#####,`:,,,,,,,,,.'.............`````````````````       ````.....,.....`                
-              .'+;:,,,,,,,,,,+#+'+,:,,,,,,.,::,:,,,,,,.....,`;,,,,,,,,,,,,,,,,,,,,,,,,,,::::::;,,,,,..:`             
-          .';;;':.,,,,,,,,,,,....`;,:::,...,;@,+++++++###:..#,#++::'+'';;;;;;;,';;;;;::;;'+++':'##++';;,             
-         ::,.. ,,:......``````````,;+++:.....+``.':::::,',.+,##+++'###+@+##@'+@@+'@;'#+';+####+;.#;;;'..             
-        .,,..` :.```````:@```````.,+'''+,..,:+ ,;.,;;:,@.,`:::#''##';#+''+'+++''+++'++++'+''#';;;,,;;,:.`            
-        ,,..`` `  #````,,+.``````.+;:;'''.`.,'``,::###@#.,:;#+#++++++#'+'#''+#''#''+#''+'++++'#': .,.;#``            
-        ,., `   `,#.``` '@```````.;;;:;'':`..,,',;,#.,..,,:;;;;,,,,,..:;,.....:;,.,,,,@::::::;;;:.#@#'+`.            
-        .:;'    ,`#``````````````''#+;:;'+``,,,#':,+:.,,,::;;;;:::::::;:,@@@@;,','''':,:,@@#+:;;:.:;;`#,.            
-       `.'::;`  :````.,,,,,,,,,,,'@@@@;;''..`..#,,,+:...,::;;;;,@@#####',,,,,,;',''''':;::;;;:;;:,,,:`+`,:           
-       `:;::: ` ;:,,,,,,:,,,,,,,:#@@@@#:'';,`..#,;,+##@+:::;+:'@#;;##;;##;#@';@@;'+':++'++++'''+:.#+### .,           
-       ,'';,,,..':::::::::::::::'@#@@@@;''':,,,#`.,`,.:#:::;+++++++++++#+++#'+##+'#'+@@+'#++#+#':,+;;,# .,`          
-       :'#':,;..':::::::::::::::+#@@@@@#;++,`..# .;.`;,#:::;+++'+##+'##+'#''##''##++#'+#++++++#+:,#;,'# `.:          
-       :###'.,,.':::::::::::::::##@@@#++';+;.::+########:;:;#:+@@++@''''''''+''''+'++''+'++#++#;:,#++##,,,;          
-       :###+..,,';;;;;;;;;::::::##@::::#++++,,,,,,,.......,#;:+++++';@@@@@@@@@;'@@@@@@@@;#++'+';;:,.....,`'          
-       '####:.:,;;;;;;;;;;;;::::#@;+';+'####''';;;;;;;::::,::+''';;;;;;;;;:::::::::::::::::;;;;':;:::::;;:'          
-       +###@+,::;;;;;;;;;;;;;;;;@;',::;+'+++++##########@@@#,                       ``````....,::@@@@@@@+'           
-       ##++++,:::;;;;;;;;;;;;;;;'+'+#+';+#++++++++++++++++'+@##@########@@@@@@@@@@@@@@@@@@@@@@@@@#;;;;;;;::          
-       ##::++:::,;;;;'''''';;:,:';##+#+''#++;@@@@######++++'+:,,,,,,,,,,,,,,,,,,,,,,,,:::::::;;:;++''''''+'.         
-       @+,:##;;,..`` ``````````,'#+###+#;++++@@@@@@@@@@@:++@';;;;;;';;';+'+''+++'+''+++';+++++++'#+#@@##+,':         
-       #'':;#''.`,::::,,,,,,:::++###;;#++++++,@@#@#@#@@@;+'#';+;;;;;;;;+++#####++##+##++';;''''+'+'+@##@#;':.        
-       #+'+.'+';'''''''''''''''+###+#+'#+'++++#';,,;#@@#++''''+;;;;;;;;'#+#+#++#+++#++#+''''''''''''@@#;,++''        
-       #+'';+++;;'''''''''''''''##'@@+@'+'+++++++++++##+++#'''''''''''''#+#+###++#+###++''''''''++#+:'++++;++        
-       #++';#++;;''''''''''''';+###+@###+++#######+#++++++#+'+::;;;;''''#+#''+##+#+'+##'''++++++'+#+++++#+:''        
-       #+#'''++;;+'''''';;;;::++#+#+'@##'++++#############+++:`++'';`            ````` `.`.,:::.:++####'##+':.       
-       +++@+'#+',';;'''''++++''+#+++##:#'++#++##@+#@@@##+#+##::@#@@@::::::::::::::::::::::'@@@@:#######+;++#+;       
-       '+++++++#;+'''''''''''+###+###:+'++++'##@+#@#@@@#@@@@::@##+#+::,...,::,...:::....::@###',#@@####;##;+''       
-       +++'+++@#@#+#######'+++#+#+#@##'#'++##'+##++@@@@@@@@;::@@@@@::,:::::::::::::;:::;:+@@@@,@#@@###+#;'+#+,       
-       +++@++'######@@@@@@@@@@++#'#@#+#+'+#+'+#++@#+@#@@@@@+;;@:';;;;;;;;;;;;;;;;;;;;;;;;';#;:@@@@@####+#+;#+'       
-       +#`#+++#++@############++++######++#+;;''##+#@@@@@@@@;::::;;;;;;;;;;;;;;;;;;;;;;;:::;#@@@@@@###+#':#++.       
-       +'+,++;++####@@`       #+#+###@#+++#+''@;'+++@@@@@#@@;;;;;;;;;;;;;;;;;;;'';;;;;;;+;+@#@@@@@@#####++;++'       
-       +; ;+'+#+'###@@        ;++++##@#+#+##'#''#+++@@@@###@''''''''''''''''''''''''''';#@##+##@@@@####'###;'        
-       ;,.@##;+#+#++@,        :#'#++@ #+#+++@;'+#''@@@:'@#@@@++++''''+''''''++'''';;:,@@#@##+#@#@@####'#+#;'#        
-       ,,@++'#'#''#+@          +++++,++++#+++#+'#+#     @@@@@##+++##+,                 `@@###@@@@@#####''+'##        
-       `'@++#''##+++           '+;++##+###+++#+#+#+     ;#@@######''#                   +#@@@@@@@@####++++++#        
-        + #+'#++###,           ;++++#@+#+##+#'#+'++     `##@##@++#+@+                   +##@@@@@@#####'#@#'+         
-        #+++++####+            .++;;'''###+@''###'       #'+##+@#+##+                    ##@@########+#'++++         
-        ;#++###@++#             +++++##+##'''++#+:       ###########'                    +##########+##+#++:         
-        :'##++###+@             ,#+###+###++#++++        .+####@#++#                      ##########+##+##'          
-         #+##+####               ##+++####+###++'         ##@###@#@'                      `#######@+#+####           
-    ```..;#@@@@@@@####################+#@+######@#########+#######',...``````````````       @####@######+            
-           ```````......,,,::;;;'''+###@###########################################+++''';;;:'##@#@@#@' ``````       
-
-
-
-
+                                    .:,,:,,,::,,,,,,,,,,,,,.,,...`..`
+                               .::,:,:::::,,,,:::,::::::::::::::,,,,,...`.``
+                            :,;;;::;.;@###++++++++#############+++';;;';:,,.`,.
+                          :;;,:'''+,`;#++################+++++++'''';;;;:::,,,,.
+                         ;,:'+#++#+:`:#+#################++++++++''''';;;;:::,,..
+                        :++++##++++:`:#+####################+++++++'''';;;;:::,,..
+                       ,;++++#+++++;`,#'+####################+++++++'''''';;:::,,..
+                       ,++++++++'++;`.#'++++++++++++##########+++++'''''''';::::,,.`
+                      .;'++'++++''';``+''+#+++++++++++++++++#####+++'''''''';;:::,,,`
+                      ,#''''+++'''''. +''++++++++++++++++++++####++++'''''''';;:::,,:
+                      ,''''+++''''''. ++'++#+++++++++++++++++####+++++'++'''';;::::,,;`
+                     ,#''';'''+''''+, +++++#++++++++++######++#####++++++'''';;;::::,,;`
+                     .+'''''''';'''+, +++++#++++++#+#++#####++#######+++++'''';;;::::,:,
+                    .,;;`'++'';;;;'+,`'++#@@@@@@@@#@##@,:::+++'''''''''';;;;;;;;';::::,,`  #:::`
+                    .#;;.'++++';;;+':+,:.``````.,:;;;;;;;;;;;::::::::,,,,,,,,,....`.,,,,:` @+';;
+                    .#;;,'++++++''',::,;...`````````` `.::,,,,,,,,,,,,.............```.`````   :
+                   .`;:;:+++++#'';#:::::::::::::::::.`  `  :::;;;;;;:::,,,,,,,,............````
+                   .+:::+#########':::::,,,,,``,.......,,`...:::::::::::::::::::,,,,,......`````   ``
+                   .;';:,,;+@#####,`:,,,,,,,,,.'.............`````````````````       ````.....,.....`
+              .'+;:,,,,,,,,,,+#+'+,:,,,,,,.,::,:,,,,,,.....,`;,,,,,,,,,,,,,,,,,,,,,,,,,,::::::;,,,,,..:`
+          .';;;':.,,,,,,,,,,,....`;,:::,...,;@,+++++++###:..#,#++::'+'';;;;;;;,';;;;;::;;'+++':'##++';;,
+         ::,.. ,,:......``````````,;+++:.....+``.':::::,',.+,##+++'###+@+##@'+@@+'@;'#+';+####+;.#;;;'..
+        .,,..` :.```````:@```````.,+'''+,..,:+ ,;.,;;:,@.,`:::#''##';#+''+'+++''+++'++++'+''#';;;,,;;,:.`
+        ,,..`` `  #````,,+.``````.+;:;'''.`.,'``,::###@#.,:;#+#++++++#'+'#''+#''#''+#''+'++++'#': .,.;#``
+        ,., `   `,#.``` '@```````.;;;:;'':`..,,',;,#.,..,,:;;;;,,,,,..:;,.....:;,.,,,,@::::::;;;:.#@#'+`.
+        .:;'    ,`#``````````````''#+;:;'+``,,,#':,+:.,,,::;;;;:::::::;:,@@@@;,','''':,:,@@#+:;;:.:;;`#,.
+       `.'::;`  :````.,,,,,,,,,,,'@@@@;;''..`..#,,,+:...,::;;;;,@@#####',,,,,,;',''''':;::;;;:;;:,,,:`+`,:
+       `:;::: ` ;:,,,,,,:,,,,,,,:#@@@@#:'';,`..#,;,+##@+:::;+:'@#;;##;;##;#@';@@;'+':++'++++'''+:.#+### .,
+       ,'';,,,..':::::::::::::::'@#@@@@;''':,,,#`.,`,.:#:::;+++++++++++#+++#'+##+'#'+@@+'#++#+#':,+;;,# .,`
+       :'#':,;..':::::::::::::::+#@@@@@#;++,`..# .;.`;,#:::;+++'+##+'##+'#''##''##++#'+#++++++#+:,#;,'# `.:
+       :###'.,,.':::::::::::::::##@@@#++';+;.::+########:;:;#:+@@++@''''''''+''''+'++''+'++#++#;:,#++##,,,;
+       :###+..,,';;;;;;;;;::::::##@::::#++++,,,,,,,.......,#;:+++++';@@@@@@@@@;'@@@@@@@@;#++'+';;:,.....,`'
+       '####:.:,;;;;;;;;;;;;::::#@;+';+'####''';;;;;;;::::,::+''';;;;;;;;;:::::::::::::::::;;;;':;:::::;;:'
+       +###@+,::;;;;;;;;;;;;;;;;@;',::;+'+++++##########@@@#,                       ``````....,::@@@@@@@+'
+       ##++++,:::;;;;;;;;;;;;;;;'+'+#+';+#++++++++++++++++'+@##@########@@@@@@@@@@@@@@@@@@@@@@@@@#;;;;;;;::
+       ##::++:::,;;;;'''''';;:,:';##+#+''#++;@@@@######++++'+:,,,,,,,,,,,,,,,,,,,,,,,,:::::::;;:;++''''''+'.
+       @+,:##;;,..`` ``````````,'#+###+#;++++@@@@@@@@@@@:++@';;;;;;';;';+'+''+++'+''+++';+++++++'#+#@@##+,':
+       #'':;#''.`,::::,,,,,,:::++###;;#++++++,@@#@#@#@@@;+'#';+;;;;;;;;+++#####++##+##++';;''''+'+'+@##@#;':.
+       #+'+.'+';'''''''''''''''+###+#+'#+'++++#';,,;#@@#++''''+;;;;;;;;'#+#+#++#+++#++#+''''''''''''@@#;,++''
+       #+'';+++;;'''''''''''''''##'@@+@'+'+++++++++++##+++#'''''''''''''#+#+###++#+###++''''''''++#+:'++++;++
+       #++';#++;;''''''''''''';+###+@###+++#######+#++++++#+'+::;;;;''''#+#''+##+#+'+##'''++++++'+#+++++#+:''
+       #+#'''++;;+'''''';;;;::++#+#+'@##'++++#############+++:`++'';`            ````` `.`.,:::.:++####'##+':.
+       +++@+'#+',';;'''''++++''+#+++##:#'++#++##@+#@@@##+#+##::@#@@@::::::::::::::::::::::'@@@@:#######+;++#+;
+       '+++++++#;+'''''''''''+###+###:+'++++'##@+#@#@@@#@@@@::@##+#+::,...,::,...:::....::@###',#@@####;##;+''
+       +++'+++@#@#+#######'+++#+#+#@##'#'++##'+##++@@@@@@@@;::@@@@@::,:::::::::::::;:::;:+@@@@,@#@@###+#;'+#+,
+       +++@++'######@@@@@@@@@@++#'#@#+#+'+#+'+#++@#+@#@@@@@+;;@:';;;;;;;;;;;;;;;;;;;;;;;;';#;:@@@@@####+#+;#+'
+       +#`#+++#++@############++++######++#+;;''##+#@@@@@@@@;::::;;;;;;;;;;;;;;;;;;;;;;;:::;#@@@@@@###+#':#++.
+       +'+,++;++####@@`       #+#+###@#+++#+''@;'+++@@@@@#@@;;;;;;;;;;;;;;;;;;;'';;;;;;;+;+@#@@@@@@#####++;++'
+       +; ;+'+#+'###@@        ;++++##@#+#+##'#''#+++@@@@###@''''''''''''''''''''''''''';#@##+##@@@@####'###;'
+       ;,.@##;+#+#++@,        :#'#++@ #+#+++@;'+#''@@@:'@#@@@++++''''+''''''++'''';;:,@@#@##+#@#@@####'#+#;'#
+       ,,@++'#'#''#+@          +++++,++++#+++#+'#+#     @@@@@##+++##+,                 `@@###@@@@@#####''+'##
+       `'@++#''##+++           '+;++##+###+++#+#+#+     ;#@@######''#                   +#@@@@@@@@####++++++#
+        + #+'#++###,           ;++++#@+#+##+#'#+'++     `##@##@++#+@+                   +##@@@@@@#####'#@#'+
+        #+++++####+            .++;;'''###+@''###'       #'+##+@#+##+                    ##@@########+#'++++
+        ;#++###@++#             +++++##+##'''++#+:       ###########'                    +##########+##+#++:
+        :'##++###+@             ,#+###+###++#++++        .+####@#++#                      ##########+##+##'
+         #+##+####               ##+++####+###++'         ##@###@#@'                      `#######@+#+####
+    ```..;#@@@@@@@####################+#@+######@#########+#######',...``````````````       @####@######+
+           ```````......,,,::;;;'''+###@###########################################+++''';;;:'##@#@@#@' ``````
 
           /\___/\
          (  o  o  )
@@ -1756,7 +1636,7 @@ GGLKKKKKKKEEEDDDDGGGGLLffffffffffffjffffffffjjjjjLLfjfjjLLLGGGGDDDDDDDDDDDDDEDEE
                         / /\|`. :\/`--\_\`-'
                         ).:: `::::`.
                        /.::: ::'    `.
-                      (.:-::.:::' .-._)                    ___
+                      (.:-::.:::' .-._)
                         | :`-' \ /  `-.____              .' .(
                         |::  (:   `,`.`.  :`._______   .'  :: \
                         |:    \: ::  `  `---.:::::  `./  .:'  .)
@@ -1785,11 +1665,6 @@ GGLKKKKKKKEEEDDDDGGGGLLffffffffffffjffffffffjjjjjLLfjfjjLLLGGGGDDDDDDDDDDDDDEDEE
                             `:::::'
                               `-'
 
-
-
-
-
-
                                  __.--.._,-'""-.
                               ,-' .' ,'  .-"''-.`.       .--.
                             ,'    |  |  '`-.    \ \       `-.|
@@ -1817,7 +1692,7 @@ GGLKKKKKKKEEEDDDDGGGGLLffffffffffffjffffffffjjjjjLLfjfjjLLLGGGGDDDDDDDDDDDDDEDEE
       /....._____|       //   .  ___|   |   /  | |  ,|
      .         _.'      /, _.--"'-._ `".| ,'   | |.'
      |      _,' / ___   `-'.        `. _|'     |,
-     |  _,-"  ,'.'   `-.._  `.      _,'         `
+     |  _,-"  ,'.'   `-.._  `.      _,'
      '-"   _,','          "- ....--'
     /  _.-"_.'
    /_,'_,-'
@@ -1829,7 +1704,7 @@ GGLKKKKKKKEEEDDDDGGGGLLffffffffffffjffffffffjjjjjLLfjfjjLLLGGGGDDDDDDDDDDDDDEDEE
  \ ______/ V`-,
   }        /~~
  /_)^ --,r'
-|b      |b
+ |b      |b
 ~smol dog~
 
  ____
@@ -1848,5 +1723,6 @@ GGLKKKKKKKEEEDDDDGGGGLLffffffffffffjffffffffjjjjjLLfjfjjLLLGGGGDDDDDDDDDDDDDEDEE
   |,_  | | | |  _,|
      `-|_|-|_|-'
 
-
 #EDIT
+
+Nothing I have will compare to any of this so here is a person >->o
