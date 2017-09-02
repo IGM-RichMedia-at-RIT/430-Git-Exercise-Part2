@@ -7274,7 +7274,7 @@ In fact I don't even know how I got in this position in the first place
 .......--............----.......-/+//+shhdddddddddddddddddhhhhhddmdddddddddddhyyhddddddddddddddhhhhyyso+:``.-::---.
 ..............................:/+osyhdddddddddddddddddhddhhhhddddddddddddddddddddddddddddddddddddddhyyso:``.-:::---
 ......................````.-:/oyhdddddddddddhhddddddddddhhhdddddhhhhhddddddddddddddddddddmmmdddmddddhyys/``---::-:-
-...................``````-/+shddddddddhhhhhhddddddddddhhhhdddhhhhhyhyhysyddddhyssyhhhdddmmmmmmdddddddhys/``.--::---
+...................``````-/+shddddddddhhhhddddddddddhhhhdddhhhhhyhyhysyddddhyssyhhhdddmmmmmmdddddddhys/``.--::---
 .................````.-:+syhhhdhhhhhyyssyhdddhhddmmddhhhhhhhhhhhhhyysssssyhdysoosyhhhhddmmmmmmmddddddhys/.`.--::---
 ..............``````-/osyhhhhhysssssoosydddhhdmmmmddhyyyyyssssssyyyyysoo++ohhys++yhhhhhdddmmdmmmdddddhhy+-``.-::---
 ``........`````  `-:+oyyhhyysooosooosyddhhddmmmdddhhyyyyysssssssssssyyso//:/yhys+/oyhyyhddddddmmmddddhhys:``.-::---
@@ -7313,11 +7313,14 @@ yssssyhhdmmmmmmddhhyyssooo+++////+////////////:::::::////+++++++++++oosssyyyyyyy
 yyysyyhdmmmmmmmdhhhyyssoo++++//://////////////:::://///+++ooooooossssssssyyyyyyyyysyhdddddmmmmmddddddddyhdddh/`````
 yyyyyhhdmmmmmmddhhyyssoo+++++//::-://////////::::////++++ooooossssssssssyyyyyyyyyyyhddddmmmmmdddddddddhhddddd+`````
 yyyyyhhdmmmmmmddhhyyssoo++++////:--:://////:::::::////++++++ooossssssssyyyyyyyyyyyhdddmmmmmmddddddddddddddddds:.```
-yyyyyhhmmmmmmmdhhhysssoo+++/////:----::://:::::::-:::///////++ooosssssyyyyyyyyyyhdddmmmmmmmddddddddddddddddddo:+/-.
+yyyyyhhmmmmmmmdhhhysssoo+++/////:----::://:::::-:::///////++ooosssssyyyyyyyyyyhdddmmmmmmmddddddddddddddddddo:+/-.
 syyyyhhmmmmmmmdhhhysssoo+++/////:-------:::::::---.---::://////+ooosssyyyyyyyyyhddmmmmmmmmdddddddddddhddddddd+./+o+
 osyyyhhmdddmmmdhhyysssoo+++/////:--------::::---------::::://////+oossyyyyyyyhhddmmmmmmmmmmdddddddddhdddddddy:...:/
 ssyyyhdmdhddmmdhhyysssoo+++/////::--------::/:::-----::::::://///+oossyyyyyhddddmmmmmmmmmmmmdddddddddddddddy/.`````
-ysyyyhhddhhddmdhhyssssoo++//////::::::::::::///++///////////////++oossyyyhhdddddmmmmmmmmmmmmddddddddddmdddy+://:::-
+ysyyyhhddhhddmdhhyssssoo++//////:::::::::///++///////////////++oossyyyhhdddddmmmmmmmmmmmmddddddddddmdddy+://:::-
 yyyyyhhddhhddmddhyssssoo++///////::::////::::/+ooooooooooo+++++++oosyyhhdddddhdmmmmmmmmmmmdddmmddddddddddysssssssss
 yyyyyhhddhhhdmddhyysssoo++////////////+++/:://++osssssyyyyyyyyyyyyhhhdddddddhddmmmmmmmmmmdddmmmdddddddddhhhyyyyssss
 yyyyyhhddhhhddmddhyyssoo++//////////+++oo+////++ossyyyhhhhhhhhhhhhhhddddddddddmmmmmmmmmmmdddmmmddddddddddhhhyyyyyyy
+
+Once I was something something. After that I become something something.
+End of Story
