@@ -807,7 +807,7 @@ Ididn'tcontribute...
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▄██▀░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Whatisthemeaningoflife?42
+Whatistheanswertotheultimatequestionoflifetheuniverseandeverything?42
 
 ##
 ####
@@ -6050,7 +6050,7 @@ but they don't check out!
 Oh, my.
 
   
-Oould you get a nurse
+Could you get a nurse
 to close that window?
 
   
@@ -7661,4 +7661,13 @@ plupW
         (▄▒▒∩      ╚██████████∩
 
 testing
+
+		   O
+      /¯¯¯¯¯¯¯¯¯¯\
+__   /            \
+\ \ |              |
+ \ \|              |      <-- Error 418: This is a teapot.
+  \                /
+   \______________/
+
 Last?
