@@ -7730,7 +7730,7 @@ __ H /            \
    H
 Last?
    H
-   H    LOOK! It's an Aardvark!
+   H    LOOK! It's an Aardvark! Woah!
    H
    H          _.---._    /\\
    H       ./'       "--`\//
@@ -7745,5 +7745,12 @@ Last?
  \ _ /="
  .# #.
  
-Alola, friend!
- 
+Alola, friend! Hi! I've modified your line of the file.
+
+                    __
+         .,-;-;-,. /'_\
+       _/_/_/_|_\_\) /
+     '-<_><_><_><_>=/\
+       `/_/====/_/-'\_\
+        ""     ""    ""
+Look! It be a turtle.
