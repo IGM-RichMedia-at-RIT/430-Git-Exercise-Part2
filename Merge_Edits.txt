@@ -1,4 +1,4 @@
-▒▒▒▒▒▒█▓▓█▒██▓▓▓██▒█▓▓█
+﻿▒▒▒▒▒▒█▓▓█▒██▓▓▓██▒█▓▓█
 ▒▒▒▒▒█▓▒▒▓█▓▓▓▓▓▓▓█▓▒▒▓█
 ▒▒▒▒▒█▓▒▒▓▓▓▓▓▓▓▓▓▓▓▒▒▓█
 ▒▒▒▒▒▒█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
@@ -8110,8 +8110,6 @@ I edited your ascii, are you salty now?
                                      7<..%
 Gotta go fast!
 
-That blue hedgehog again, of all places!
-
 So this is a thing            
 
 Dis is a beaver
@@ -8632,6 +8630,8 @@ r-ミｰ- 　 　 { i　　／ )ﾉ:::/ {､__　　　_＿ ／:::: ::::::／ﾉ
                               .1.         J
                                  ?1.     .'
                                      7<..%
+
+That blue hedgehog again, of all places!
 
 Sonic and the xman are Pokemon, pretty sure. Better late than never
 
