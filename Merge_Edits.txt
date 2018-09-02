@@ -2425,13 +2425,15 @@ ____/oo\
 ░░░░░░░░▄█████▄▄█▄░░░░
 ░░░░░▄▄▄▀██████▄▄██░░░░
 ░░▄██░░█░█▀░░▄▄▀█░█░░░▄▄▄▄
-▄█████░░██░░░▀▀░▀░█▀▀██▀▀▀█▀▄
-█████░█░░▀█░▀▀▀▀▄▀░░░███████▀
-░▀▀█▄░██▄▄░▀▀▀▀█▀▀▀▀▀░▀▀▀▀
+▄█████░░██░░░▀▀░▀░█▀▀██▀▀▀█▀▄   ▄▀▀▀▀▄
+█████░█░░▀█░▀▀▀▀▄▀░░░███████▀  █      █
+░▀▀█▄░██▄▄░▀▀▀▀█▀▀▀▀▀░▀▀▀▀      ▀▄▄▄▄▀
 ░▄████████▀▀▀▄▀░░░░
 ██████░▀▀█▄░░░█▄░░░░
 ░▀▀▀▀█▄▄▀░██████▄░░░░
 ░░░░░░░░░█████████░░░░
+
+pew pew pew
 
 ²²²²²²²²²
 ²±±²²²±±±²²²
@@ -7916,12 +7918,12 @@ plupW
 
 The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark, get ready, start!
 
- ______    _                   _                   _           _       _     _
- |  ____|  | |                 (_)                 | |         (_)     | |   | |
- | |__ __ _| | ___ ___  _ __    _ ___   _ __   ___ | |_  __   ___  __ _| |__ | | ___
- |  __/ _` | |/ __/ _ \| '_ \  | / __| | '_ \ / _ \| __| \ \ / / |/ _` | '_ \| |/ _ \
- | | | (_| | | (_| (_) | | | | | \__ \ | | | | (_) | |_   \ V /| | (_| | |_) | |  __/
- |_|  \__,_|_|\___\___/|_| |_| |_|___/ |_| |_|\___/ \__|   \_/ |_|\__,_|_.__/|_|\___|     true
+  ______    _                   _              _       _     _
+ |  ____|  | |                 (_)            (_)     | |   | |
+ | |__ __ _| | ___ ___  _ __    _ ___   __   ___  __ _| |__ | | ___
+ |  __/ _` | |/ __/ _ \| '_ \  | / __|  \ \ / / |/ _` | '_ \| |/ _ \
+ | | | (_| | | (_| (_) | | | | | \__ \   \ V /| | (_| | |_) | |  __/
+ |_|  \__,_|_|\___\___/|_| |_| |_|___/    \_/ |_|\__,_|_.__/|_|\___|     true
 
 plupW                    _\|/_
                           oOo
@@ -8077,6 +8079,8 @@ I edited your ascii, are you salty now?
                                  ?1.     .'
                                      7<..%
 Gotta go fast!
+
+That blue hedgehog again, of all places!
 
 So this is a thing            
 
