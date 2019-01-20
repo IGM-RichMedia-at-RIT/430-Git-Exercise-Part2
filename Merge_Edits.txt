@@ -5377,14 +5377,14 @@ They make the honey,
 and we make the money.
 
 
-"They make the honey,
-and we make the money"?
+"They make the money,
+and we make the honey"?
 
 
 Oh, my!
 
 
-What's going on? Are you OK?
+What's out here modifyin' on? Are you OK?
 
 
 Yeah. It doesn't last too long.
@@ -11072,3 +11072,16 @@ Take me home, down country roads"
 ./  / /\ \   | \ \  \ \
    / /  \ \  | |\ \  \7
     "     "    "  "     
+
+    _.-- ,.--.
+   .'   .'    /
+   | @       |'..--------._
+  /      \._/              '.
+ /  .-.-                     \
+(  /    \                     \
+ \\      '.                  | #
+  \\       \   -.           /
+   :\       |    )._____.'   \
+    "       |   /  \  |  \    )
+            |   |./'  :__ \.-'
+            '--'
