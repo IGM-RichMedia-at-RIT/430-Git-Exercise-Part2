@@ -38,20 +38,22 @@ _            )_(            _
  \ \  /  / /| | |______/ | //_\  |  /\ |\| |/  |/\  | |_||_  |_)/_\(_` |
   \ \/______| | |________|/ | |  |_ \/ | | |\  |\/  | | ||_  |  | |._) |
    `.`.     | | |     ,','
-     `.`.   | | |   ,','    _        _        _        _
-       `.`-.| | |,-','     |.\      |.\      |.\      |.\  
-         `-.| | |,-'        \\\      \\\      \\\      \\\ 
-            | | |    ________\\\______\\\______\\\______\\\_____________
-            | | |   | .--  __        __    ,--.        __   __   __| _  |
-            | | |   | |-  /  \ |  | |  `   `--. | | | /  \ |  ` /  |(_` |
-            | | |   | |   \__/ \_/| |      .__/ \/ \/ \__/ |    \__|._) |
-            | | |   '---------------------------------------------------'
-             \|/                  \\\ /|   \\\ /|   \\\ /|   \\\ /|
-              V                  __\\V /  __\\V /  __\\V /  __\\V /
-                                 \___O/   \___O/   \___O/   \___O/
-                                     \/\      \/\      \/\      \/\
-                                      \/\      \/\      \/\      \/\
-                                       (O)      (O)      (O)      (O)
+     `.`.   | | |   ,','    _        _       
+       `.`-.| | |,-','     |.\      |.\     
+         `-.| | |,-'        \\\      \\\      
+            | | |    ________\\\______\\\____________________________________
+            | | |   |___________               ,--.        __   __   __| _  |
+            | | |   |\__    ___/_  _  ______   `--. | | | /  \ |  ` /  |(_` |
+            | | |   |  |    |  \ \/ \/ /  _ \  .__/ \/ \/ \__/ |    \__|._) |
+            | | |   |  |    |   \     (  <_> )                              |
+            | | |   |  |____|    \/\_/ \____/                               |
+            | | |   '-------------------------------------------------------'
+             \|/                  \\\ /|   \\\ /|   
+              V                  __\\V /  __\\V /  
+                                 \___O/   \___O/   
+                                     \/\      \/\   
+                                      \/\      \/\  
+                                       (O)      (O) 
 
 ─▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
 █░░░█░░░░░░░░░░▄▄░██░█
@@ -11189,3 +11191,115 @@ ________________________________$¶¶
 ///_.-' _..--.'_    \                    `( ) ) // //
 / (_..-' // (< _     ;_..__               ; `' / ///
  / // // //  `-._,_)' // / ``--...____..-' /// / //
+
+                                                                                                                         
+                                 .        . ....                          .        ..                                   
+                                ..:==~::,,.....                          .===========,                                  
+                                  MMMMMMMMMMM~                            MMMMMMMMMMMO                                  
+                                  MMMMMMMMMMMN.                          .MMMMMMMMMMMM                                  
+                                . MMMMMMMMMMMM..                         $MMMMMMMMMMMM .                                
+                                .=MMMMMMMMMMMM.                       ...MMMMMMMMMMMMM.                                 
+                                .NMMMMMMMMMMMM$                       . ?MMMMMMMMMMMMM7 .                               
+                                 MMMMMMMMMMMMMM.                       .NMMMMMMMMMMMMMN .                               
+                                ~MMMMMMMMMMMMMM,..                    . MMMMMMMMMMMMMMM..                               
+                                DMMMMMMMMMMMMMMN.                      .MMMMMMMMMMMMMMM?.                               
+                                MMMMMMMMMMMMMMMM  .                    ZMMMMMMMMMMMMMMMM.                               
+                                MMMMMMMMMMMMMMMM. .                   .MMMMMMMMMMMMMMMMM                                
+                              .,MMMMMMMMMMMMMMMM7                     IMMMMMMMMMMMMMMMMM                                
+                             ..OMMMMMMMMMMMMMMMMM..                   MMMMMMMMMMMMMMMMMM:                               
+                               MMMMMMMMMMMMMMMMMM=.                 ..MMMMMMMMMMMMMMMMMM8                               
+                            ...MMMMMMMMMMMMMMMMMMD                 ...MMMMMMMMMMMMMMMMMMM                               
+                              OMMMMMMMMMMMMMMMMMMM                 ..8MMMMMMMMMMMMMMMMMMM,..                            
+                              MMMMMMMMMMMMMMMMMMMM.                 .MMMMMMMMMMMMMMMMMMMMO.                             
+                            . MMMMMMMMMMMMMMMMMMMMI  .             .7MMMMMMMMMMMMMMMMMMMMM..                            
+                              MMMMMMMMMMMMMMMMMMMMM.               .MMMMMMMMMMMMMMMMMMMMMM..                            
+                            .7MMMMMMMMMMMMMMMMMMMMM~               .MMMMMMMMMMMMMMMMMMMMMM .                            
+                             MMMMMMMMMMMMMMMMMMMMMMN..             ~MMMMMMMMMMMMMMMMMMMMMMI                             
+                          ...MMMMMMMMMMMMMMMMMMMMMMM .           ..MMMMMMMMMMMMMMMMMMMMMMMM                             
+                           .ZMMMMMMMMMMMMMMMMMMMMMMM .          . .MMMMMMMMMMMMMMMMMMMMMMMM                             
+                           .MMMMMMMMMMMMMMMMMMMMMMMM?.          . ZMMMMMMMMMMMMMMMMMMMMMMMM+                            
+                         . .MMMMMMMMMMMMMMMMMMMMMMMMM.  ... .  .. MMMMMMMMMMMMMMMMMMMMMMMMMN                            
+                          ..MMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNDD88OOOMMMMMMMMMMMMMMMMMMMMMMMMMM                            
+                           =MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                            
+                          .NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM,                           
+                           MMMMMMMMMDMMMDMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMOOMMDMMDMMMMMMMMMMO  .                        
+                         .IMMMMMMMMM.M.MM.MMM+MMMMMMMMMMMMMMO.MMMMMMMMMMMM$M,M8,M=MMMMMMMMMMM ..                        
+                          MMMMMMMMMM MM ~.MMMMMMMMMMMMMMI..DMMMMMMMMMMMMMM$M.MOM$=MMMMMMMMMMM:.                         
+                          MMMMMMMMMM MMM,NMMMMMMMMMMMM...~MMMMMMMMMMMMMMMM$M+NOMI~MMMMMMMMMMMZ                          
+                          MMMMMMMMMMMMMMMMMMMMMMMMMM..  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                         
+                         ,MMMMMMMMMMMMMMMMMMMMMMMM=.. .MMMMMMMMDMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..                        
+                       . 8MMMMMMMMMMMMMMMMMMMMMMMM.   MMMMMMMMMN. MMMMMMMMMMMMMMMMMMMMMMMMMMMM.                         
+                      . .MMMMMMMMMMMMMMMMMMMMMMMM8   .MMMMMMMMMM....MMMMMMMMMMMMMMMMMMMMMMMMMM?                         
+                      ..~MMMMMMMMMMMMMMMMMMMMMMMMM.   +MMMMMMMMM.. .,MMMMMMMMMMMMMMMMMMMMMMMMMM                         
+                      ..DMMMMMMMMMMMMMMMMMMMMMMMMM.    .ZMMMMMMO... .MMMMMMMMMMMMMMMMMMMMMMMMMM.                        
+                       .MMMMMMMMMMMMMMMMMMMMMMMMMMM, .   .. ....    .MMMMMMMMMMMMMMMMMMMMMMMMMMI...                     
+                       .MMMMMMMMMMMMMMMMMMMMMMMMMMMM     .. .  .   .MMMMMMMMMMMMMMMMMMMMMMMMMMMM...                     
+                      . MMMMMMMMMMMMMMMMMMMMMMMMMMMMMI...       ...MMMMMMM$?MMMMMMMMMMMMMMMMMMMM  .                     
+                       $MMMMMMMMMMMM..  ....MMMMMMMMMM:.        ..MMMMMMMMM. $MMMMMMMMMMMMMMMMMM  .                     
+                      .MMMMMMMMMMMMMMMM8.   .DMMMMMMMMMZ          MMMMMMMMMZ ..NMMMMMMMMMMMMMMMM,                       
+                      .MMMMMMMMMMMMMMMMMM     MMMMMMMMMM.        ,MMMMMMMMMM. ..MMMMMMMMMMMMMMMMO.                      
+                      ZMMMMMMMMMMMMMMMMMM   ...7MMMMMMMI          NMMMMMMMM     MMMMMMMMMMMMMMMMM.                      
+                      MMMMMMMMMMMMMMMMMM     .. ..IDD+ ..       .. .=DMMO~..    MMMMMMMMMMMMMMMMM,                      
+                    ..MMMMMMMMMMMMMMMMMO.                                       MMMMMMMMMMMMMMMMMO.                     
+                    ..MMMMMMMMMMMMMMMMO.                                        MMMMMMMMMMMMMMMMMM.                     
+                    .+MMMMMMMMMMMMMMMM.                                     ...,MMMMMMMMMMMMMMMMMM                      
+                     NMMMMMMMMMMMMMMM=                                      .  ~MMMMMMMMMMMMMMMMMM.                     
+                   ..MMMMMMMMMMMMMMMI.      .  .                      .         MMMMMMMMMMMMMMMMMM+..                   
+                    IMMMMMMMMMMMMMMM .        ..      ..           .   ..       .MMMMMMMMMMMMMMMMMN ..                  
+                   .MMMMMMMMMMMMMMM..    .. .~MM8$=,.             ,=OMMO ....    .MMMMMMMMMMMMMMMMM ..                  
+                    MMMMMMMMMMMMMM..  .. .M=...                         . NM... ..?MMMMMMMMMMMMMMMM+.                   
+                    MMMMMMMMMMMMMM . ..D,                                    ?$. ..7MMMMMMMMMMMMMMMI                    
+                    MMMMMMMMMMMMM=. ,M. .                                      .D.  MMMMMMMMMMMMMMM7                    
+                   .MMMMMMMMMMMMM  =..                                          .7..,MMMMMMMMMMMMMMZ.                   
+                   ,MMMMMMMMMMMMI ZI .                                          ..N, 8MMMMMMMMMMMMMO                    
+                   :MMMMMMMMMMMM......                                          ...:. MMMMMMMMMMMMM8 .                  
+                   ~MMMMMMMMMMMM N                                                 .M MMMMMMMMMMMMMD                    
+                   =MMMMMMMMMMMM7:                                                 . NMMMMMMMMMMMMMN.                   
+                   ?MMMMMMMMMMMMD .                                                  MMMMMMMMMMMMMMM                    
+                   IMMMMMMMMMMMMZ..                                                 .MMMMMMMMMMMMMMM..                  
+                   $MMMMMMMMMMMM:M                                                 .O:MMMMMMMMMMMMMM                    
+                   ZMMMMMMMMMMMMM.=                                                .: MMMMMMMMMMMMMM                    
+                   OMMMMMMMMMMMMM,I8.  ..  ...~. ..  .              . .?~...    ..O$.+MMMMMMMMMMMMMM                    
+                   8MMMMMMMMMMMMMM  $M.   OMMMMMMM7...             .MMMMMMMM..  IM. .MMMMMMMMMMMMMMM                    
+                   DMMMMMMMMMMMMMM? ...M .ZMMMMMMMMMMZ ..   ... +NMMMMMMMMMM. 87... $MMMMMMMMMMMMMMM            ... .   
+                   NMMMMMMMMMMMMMMM~..M.. ..NMMMMMMMMMMZ.     .NMMMMMMMMMD... .M.  .MMMMMMMMMMMMMMMM           .?M,M.   
+  . .  ...         NMMMMMMMMMMMMMMMM7M .         .   ..         . .   ..        M.MMMMMMMMMMMMMMMMMM     ..  $D  ..N .  
+..??,$MN:.         MMMMMMMMMMMMMMMMMMM.         ....             ..   .         MMMMMMMMMMMMMMMMMMMM .   .ND ...   M..  
+..Z~    .. ?MZ. .. MMMMMMMMMMMMMMMMMMMM.  .   ..      ..      ..      .     .. ZMMMMMMMMMMMMMMMMMMMM...O$..        M    
+  .M.      . .:M...MMMMMMMMMMMMMMMMMMMMM...:N+..      . ,M  .N..      . .... .MMMMMMMMMMMMMMMMMMMMMM.O. ....       D    
+   N        . .. I.MMMMMMMMMMMMMMMMMMMMMMMMMMMMM ..    ..M  8N..   ...DMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+M8NMM .       D    
+   +.       ..N~. 7MMMMMMMMMMMMMMMMMMMMMMMMMMMMM7.     ...   .     . 7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM DMMM ,.       D    
+    ,        . MOD.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                .  IMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMOZ.        8    
+    D.      .....M.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN.                 NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.7?N.=..       8    
+   .M.. . . . .. ..?MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .,M. ..M=   .I. .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN. . 7 ..  .ZM..    
+   . .:87. . N..  .  .,NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.. .NI  .:M+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN....   .M. .N: ..     
+       .  M,~$.          .OMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+?MM?+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN..          8. M..        
+      .     M..          .. ..7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMD=... .           .MI...        
+          .D                    ....8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:.   . .             .. ,..         
+          .: .                . ... .   .,78MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMDI~... .. .?8M.              . ?           
+           .M ..              7MMMMMMMMN.. .     ..   ...:+I7?~:.. ..    ...   ?8MMMMMMMD7.              ..8            
+         .  .N..             MMD.. ....MMN..    MMMMMMMMD~..   .. DMMMMMMMM7 ..O?:..8M,. .             ...M             
+             ..M . .        OM$.        8MI..   MD    ..OMMD.. .=MN...    ~.       .,MD .          .   .M~              
+             . .:M . .      8M+       ...MM.   ~M$     ...MM+   $MM+ .  ...          MM              .M+.               
+                   =M.. ..   MM= . .    DM$.   ZM=        :MM..  .DMMMMMMMMMO      . OM+     . ..  ID.                  
+                   ...$M .   .NMMD..  IMMM     NM.       .OM8.... .       .MM,.    ...MM      . DM   .                  
+                         .MM:  ..ZMMMMM$.   ...MM..   ...DMM    .M$.  .  ,MMD .   ....Z= ...MN..                        
+                          .MMMMMD+. .       ...DMMMMMMMMMN .    ..MMMMMMMM+...    . . INMMMM, ..                        
+                         ..OMMMMMMMMMMO=      .....      ...         .   ..   . ~ZMMMMMMMMMM  .                         
+                         . .MMMMMMMMMMMMMMMMMMMMMMDZ????+++++===~~~~=78NMMMMMMMMMMMMMMMMMMM7                            
+                          . 8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN.                            
+                             MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                             
+                            ..MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..                            
+                            ..MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM ..                            
+                            ...MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM~. .                            
+                             ...MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM~.                               
+                             ... ?MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                                 
+                                ...NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..                                  
+                                ....:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM....                                  
+                                    ..8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM ..                                     
+                                      . MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM....                                      
+                                      ....MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:...                                        
+                                       .  . ..$MMMMMMMMMMMMMMMMMMMMMMMMMZ... ..                                         
+                                                ...$MMMMMMMMMMMMMMMM~.                                                  
+                                                  . .. ...     ..  .... .                                               
+                                                                                                                     
