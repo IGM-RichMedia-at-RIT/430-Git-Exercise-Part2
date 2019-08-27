@@ -11525,4 +11525,6 @@ jgs   `-=._     _.=-'
  \  .-'''-.  /
   '-\__Y__/-'
      `---`
-Copy and paste is a great thing
+Copy and paste is not a great thing
+
+It's an amazing thing!
