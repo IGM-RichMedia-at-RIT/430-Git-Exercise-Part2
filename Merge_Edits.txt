@@ -10598,7 +10598,7 @@ _...--. |  ,       \ \             ,.    `-._     ,  /: '  '  '  ' ' ;;..._
         /__\   I      O  o
        //..\\  I     .  +      Le epic Wizard
        \].`[/  I
-       /l\/j\  (]    .  O           has arrived
+       /l\/j\  ()    .  O           has arrived
       /. ~~ ,\/I      +   .
       \\L__j^\/I       o                     makes yummy brew
        \/--v}  I     o  + .
@@ -11540,3 +11540,5 @@ Astute observation Watson
   (  \##__##/  )
       "(\/)"
         )(
+
+There's quite a bit of stuff in here...
