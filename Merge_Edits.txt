@@ -11579,3 +11579,10 @@ There's quite a bit of stuff in here...
        ~~   _//   _//   _// ~ _//     ~
      ~     / /   / /   / /   / /  ~      ~~
           ~~~   ~~~   ~~~   ~~~
+
+There once was a Tyrannosaurus Rex
+That found himself quite vexed
+He read through the file
+He thought it lacked guile
+And proclaimed "it has too much text"
+- Andrew
