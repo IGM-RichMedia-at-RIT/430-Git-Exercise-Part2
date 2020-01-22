@@ -1,4 +1,4 @@
-﻿This is an addition of text.
+This is an addition of text.
 ()
 (
 )
@@ -12760,4 +12760,5 @@ He's well protected, but with the right team, we can punch through those defense
 
 Here's me making my lame addition to this file.
 
-what is love
+What is love?
+Baby don't hurt me!
