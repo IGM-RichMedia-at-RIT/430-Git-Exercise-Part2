@@ -1,6 +1,10 @@
-This is an addition of text.
+﻿Nice Artwork
 "Hello World"
 (
+(**)--(**)
+{}{}{}{}{}{}
+This is my addition
+I am terrible at text art
 )
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⣿⠛⠃⠄⠄⠈⠉⠛⢿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⢿⣻⣯⠭⠤⠬⣉⣉⣛⣿⣿⣿⣶⣤⣀⠄⠈⠿⢿⣿
