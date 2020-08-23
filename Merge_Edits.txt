@@ -7,6 +7,15 @@ Hi its bender
 | '###
  '----'
 
+┏┓
+┃┃╱╲ in
+┃╱╱╲╲ this
+╱╱╭╮╲╲house
+▔▏┗┛▕▔ we 
+╱▔▔▔▔▔▔▔▔▔▔╲
+USE RELEVANT COMMIT MESSAGES
+╱╱┏┳┓╭╮┏┳┓ ╲╲
+▔▏┗┻┛┃┃┗┻┛▕▔
 
 _/﹋\_
 (҂`_´)
