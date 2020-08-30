@@ -1,4 +1,5 @@
-﻿                                                                                                          
+﻿Why did the commit cross the rebase? To git to the other repo
+                                                                                                          
                                                                       ████                                
                                                                       ██░░████                            
                                                                       ██░░░░░░██                          
