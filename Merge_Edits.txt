@@ -13297,11 +13297,13 @@ RRRRR      IIIIII     TTTTTTTTTT
 R    R	     II		  TT
 R   R	     II		  TT
 RRRR	     II		  TT
-R  R         II       	  TT
+R  R    0    II     0 	  TT
 R  R         II  	  TT  		
 R   R        II    	  TT
 R    R	     II		  TT
 R     R    IIIIII         TT
+
+I added the dots back for you
 
 hi
 
@@ -13696,3 +13698,5 @@ yes pweaches
 
 GIVE ME ALL YOUR PWEACHES!!!
 ------------------------------------------------------------------------------
+
+Whenever I'm told to think of something appropriate, my brain can only think if the worst things to say and I don't know how to fix that.
