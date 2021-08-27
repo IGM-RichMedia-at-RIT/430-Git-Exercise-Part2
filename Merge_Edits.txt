@@ -14723,7 +14723,7 @@ Chocobo says hello!
 (_/  
 ------------------------------------------------------------------------------
 
-Listen up, the world ends with you. If you want to enjoy life, expand your world!
+Listen up, the world ends with you. If you want to enjoy life, expand your world! But keep it safe, as if you end the world ends.
 
 ------------------------------------------------------------------------------
            .-.
@@ -14757,3 +14757,6 @@ A Wise man once said, dingus dongus. And god friggin damn was he right
 
 ------------------------------------------------------------------------------
 
+There is now text here, or is there?
+
+------------------------------------------------------------------------------
