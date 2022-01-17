@@ -331,7 +331,7 @@ rip halo 3 original servers (2007 - 2022) :(
 ⠀  ⠀  (\__/)
       (•ㅅ•)      Don’t ever talk
     ＿ノ ヽ ノ＼＿      to me or my son
-   `/　`/ ⌒Ｙ⌒ Ｙ　ヽ     ever again.
+   `/　`/ ⌒Ｙ⌒ Ｙ　ヽ     ever again
   ( 　(三ヽ人　 /　　|
   |　ﾉ⌒＼ ￣￣ヽ　 ノ
   ヽ＿＿＿＞､＿＿_／
@@ -354,3 +354,5 @@ jgs    `/_/====/_/-'\_\
 ╲┃┈┈┈┈┈┈┈┈┈◥▉◤
 ╲┃┈┈┈┈╭━┳━━━━╯
 ╲┣━━━━━━┫﻿
+
+HELLO WORLD 
