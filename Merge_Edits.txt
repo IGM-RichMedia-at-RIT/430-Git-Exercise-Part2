@@ -223,22 +223,22 @@ tt1111111i1111111ii1111111iiiii;;i11itCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC:::::::::
 
                                                                                                                                                                                          
 bbbbbbbb                                                                                                                                                                                 
-b::::::b                                                                                iiii  kkkkkkkk                                     iiii                               444444444  
-b::::::b                                                                               i::::i k::::::k                                    i::::i                             4::::::::4  
- b::::::b                                                                               iiii  k::::::k                                     iiii                             4:::::::::4  
- b:::::b                                                                                      k::::::k                                                                     4::::44::::4  
- b:::::bbbbbbbbb    uuuuuu    uuuuuuyyyyyyy           yyyyyyy     ppppp   ppppppppp   iiiiiii  k:::::k    kkkkkkk   mmmmmmm    mmmmmmm   iiiiiiinnnn  nnnnnnnn            4::::4 4::::4  
- b::::::::::::::bb  u::::u    u::::u y:::::y         y:::::y      p::::ppp:::::::::p  i:::::i  k:::::k   k:::::k  mm:::::::m  m:::::::mm i:::::in:::nn::::::::nn         4::::4  4::::4  
- b::::::::::::::::b u::::u    u::::u  y:::::y       y:::::y       p:::::::::::::::::p  i::::i  k:::::k  k:::::k  m::::::::::mm::::::::::m i::::in::::::::::::::nn       4::::4   4::::4  
- b:::::bbbbb:::::::bu::::u    u::::u   y:::::y     y:::::y        pp::::::ppppp::::::p i::::i  k:::::k k:::::k   m::::::::::::::::::::::m i::::inn:::::::::::::::n     4::::444444::::444
- b:::::b    b::::::bu::::u    u::::u    y:::::y   y:::::y          p:::::p     p:::::p i::::i  k::::::k:::::k    m:::::mmm::::::mmm:::::m i::::i  n:::::nnnn:::::n     4::::::::::::::::4
- b:::::b     b:::::bu::::u    u::::u     y:::::y y:::::y           p:::::p     p:::::p i::::i  k:::::::::::k     m::::m   m::::m   m::::m i::::i  n::::n    n::::n     4444444444:::::444
+b::::::b                                                                                iiii  kkkkkkkk                                     iiii                               222222222  
+b::::::b                                                                               i::::i k::::::k                                    i::::i                             2::::::::2  
+ b::::::b                                                                               iiii  k::::::k                                     iiii                             2:::::::::2 
+ b:::::b                                                                                      k::::::k                                                                     2::::44::::2  
+ b:::::bbbbbbbbb    uuuuuu    uuuuuuyyyyyyy           yyyyyyy     ppppp   ppppppppp   iiiiiii  k:::::k    kkkkkkk   mmmmmmm    mmmmmmm   iiiiiiinnnn  nnnnnnnn            2::::4 4::::2  
+ b::::::::::::::bb  u::::u    u::::u y:::::y         y:::::y      p::::ppp:::::::::p  i:::::i  k:::::k   k:::::k  mm:::::::m  m:::::::mm i:::::in:::nn::::::::nn         2::::4  4::::2  
+ b::::::::::::::::b u::::u    u::::u  y:::::y       y:::::y       p:::::::::::::::::p  i::::i  k:::::k  k:::::k  m::::::::::mm::::::::::m i::::in::::::::::::::nn       2::::4   4::::2 
+ b:::::bbbbb:::::::bu::::u    u::::u   y:::::y     y:::::y        pp::::::ppppp::::::p i::::i  k:::::k k:::::k   m::::::::::::::::::::::m i::::inn:::::::::::::::n     2::::444444::::222
+ b:::::b    b::::::bu::::u    u::::u    y:::::y   y:::::y          p:::::p     p:::::p i::::i  k::::::k:::::k    m:::::mmm::::::mmm:::::m i::::i  n:::::nnnn:::::n     2::::::::::::::::2
+ b:::::b     b:::::bu::::u    u::::u     y:::::y y:::::y           p:::::p     p:::::p i::::i  k:::::::::::k     m::::m   m::::m   m::::m i::::i  n::::n    n::::n     2222222222:::::222
  b:::::b     b:::::bu::::u    u::::u      y:::::y:::::y            p:::::p     p:::::p i::::i  k:::::::::::k     m::::m   m::::m   m::::m i::::i  n::::n    n::::n               4::::4  
  b:::::b     b:::::bu:::::uuuu:::::u       y:::::::::y             p:::::p    p::::::p i::::i  k::::::k:::::k    m::::m   m::::m   m::::m i::::i  n::::n    n::::n               4::::4  
  b:::::bbbbbb::::::bu:::::::::::::::uu      y:::::::y              p:::::ppppp:::::::pi::::::ik::::::k k:::::k   m::::m   m::::m   m::::mi::::::i n::::n    n::::n               4::::4  
- b::::::::::::::::b  u:::::::::::::::u       y:::::y               p::::::::::::::::p i::::::ik::::::k  k:::::k  m::::m   m::::m   m::::mi::::::i n::::n    n::::n             44::::::44
- b:::::::::::::::b    uu::::::::uu:::u      y:::::y                p::::::::::::::pp  i::::::ik::::::k   k:::::k m::::m   m::::m   m::::mi::::::i n::::n    n::::n             4::::::::4
- bbbbbbbbbbbbbbbb       uuuuuuuu  uuuu     y:::::y                 p::::::pppppppp    iiiiiiiikkkkkkkk    kkkkkkkmmmmmm   mmmmmm   mmmmmmiiiiiiii nnnnnn    nnnnnn             4444444444
+ b::::::::::::::::b  u:::::::::::::::u       y:::::y               p::::::::::::::::p i::::::ik::::::k  k:::::k  m::::m   m::::m   m::::mi::::::i n::::n    n::::n             22::::::22
+ b:::::::::::::::b    uu::::::::uu:::u      y:::::y                p::::::::::::::pp  i::::::ik::::::k   k:::::k m::::m   m::::m   m::::mi::::::i n::::n    n::::n             2::::::::2
+ bbbbbbbbbbbbbbbb       uuuuuuuu  uuuu     y:::::y                 p::::::pppppppp    iiiiiiiikkkkkkkk    kkkkkkkmmmmmm   mmmmmm   mmmmmmiiiiiiii nnnnnn    nnnnnn             2222222222
                                           y:::::y                  p:::::p                                                                                                               
                                          y:::::y                   p:::::p                                                                                                               
                                         y:::::y                   p:::::::p                                                                                                              
@@ -301,6 +301,7 @@ b::::::b                                                                        
 
 	He really do be surprised
 	not anymore
+	kinda weird lookin...
 
 	
 ░░█▀░░░░░░░░░░░▀▀███████░░░░░
