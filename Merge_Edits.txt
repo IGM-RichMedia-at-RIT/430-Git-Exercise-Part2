@@ -330,6 +330,7 @@ das crazy bro
            .--._.--.
           ( O     O )
           /   . .   \
+		  |~^     ^~|
          .`. \___/.'.
         /(           )\
       _/  \  \   /  /  \_
@@ -765,6 +766,7 @@ HELLO WORLD
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣵⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ^ "Rick ASCII" lmao
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 Hellow World Dan
     ▒▒▒▒▒▒▒▒▒▒▒▒              ████████████████████████████              
@@ -6588,3 +6590,6 @@ jgs `'-._____.
  \    |    /
    \  |  /
      \ /
+	 
+Time flies like an arrow,
+Fruit flies like a banana
