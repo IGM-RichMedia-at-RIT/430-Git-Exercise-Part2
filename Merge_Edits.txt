@@ -5132,7 +5132,7 @@ the gang's back together
 
 and everything's
 
-back to normal,
+back to abnormal,
 
 I wanted to tell you
 
@@ -5576,3 +5576,31 @@ Unfortunately, he taught his apprentice everything he knew, then his apprentice 
 Ironic. 
 
 He could save others from death, but not himself.
+
+ASCII bear attack
+
+                  _         _
+ .-""-.          ( )-"```"-( )          .-""-.
+/ O O  \          /         \          /  O O \
+|O .-.  \        /   0 _ 0   \        /  .-. O|
+\ (   )  '.    _|     (_)     |     .'  (   ) /
+ '.`-'     '-./ |             |`\.-'     '-'.'
+   \         |  \   \     /   /  |         /
+    \        \   '.  '._.'  .'   /        /
+     \        '.   `'-----'`   .'        /
+      \   .'    '-._        .-'\   '.   /
+       |/`          `'''''')    )    `\|
+       /                  (    (      ,\
+      ;                    \    '-..-'/ ;
+      |                     '.       /  |
+      |                       `'---'`   |
+      ;                                 ;
+       \                               /
+        `.                           .'
+          '-._                   _.-'
+          __/`"  '  - - -  ' "`` \__
+         /`            /^\           `\
+         \(          .'   '.         )/
+          '.(__(__.-'       '.__)__).'
+
+
