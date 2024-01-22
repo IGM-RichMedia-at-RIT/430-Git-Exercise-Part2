@@ -5522,3 +5522,16 @@ ASCII bear attack
 ⠀⠈⠛⣷⣦⣤⣤⣤⣤⣤⣤⣶⡶⠾⠿⠟⠿⠿⠿⠶⣶⣶⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣶⠶⠿⠛⠉⠀⠀
 
 Planets in young star clusters could shed light on planet formation and evolution since star clusters can provide accurate age estimation. However, the number of transiting planets detected in clusters was only ~30, too small for statistical analysis. Thanks to the unprecedented high-precision astrometric data provided by Gaia DR2 and Gaia DR3, many new open clusters (OCs) and comoving groups have been identified. The Understanding Planetary Formation and Evolution in Star Clusters project aims to find observational evidence and interpret how planets form and evolve in cluster environments. In this work, we cross match the stellar catalogs of new OCs and comoving groups with confirmed planets and candidates. We carefully remove false positives and obtain the biggest catalog of planets in star clusters up to now, which consists of 73 confirmed planets and 84 planet candidates. After age validation, we obtain the radius-age diagram of these planets/candidates. We find an increment in the fraction of hot Jupiters (HJs) around 100 Myr and attribute the increment to the flyby-induced high-e migration in star clusters. An additional small bump of the fraction of HJs after 1 Gyr is detected, which indicates the formation timescale of HJ around field stars is much larger than that in star clusters. Thus, stellar environments play important roles in the formation of HJs. The hot Neptune desert occurs around 100 Myr in our sample. A combination of photoevaporation and high-e migration may sculpt the hot Neptune desert in clusters.
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⢀⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣰⣿⣿⣿⣿⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⡿⠿⢿⣿⣿⣶⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢼⡟⠉⣻⣿⣿⡏⠰⣷⠀⢹⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢻⣷⡀⠙⣻⣿⣿⣄⣠⣴⡿⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣭⣉⣛⣻⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢠⠞⢡⣽⣿⣿⠿⢻⣿⣿⣿⣏⣿⣿⣿⣧⣤⣤⣤⣄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠘⣴⡨⠛⠋⠁⠀⣼⣿⣿⣿⡟⣿⣿⣿⣿⣯⢈⣿⣿⠂⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠘⠃⠀⠀⠀⢀⣤⣿⣷⡜⣿⣧⡉⠉⠙⠋⠁⠈⠉⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⢠⣾⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
