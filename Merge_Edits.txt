@@ -521,6 +521,7 @@ Stream both and Luv 4 Rent by Smino
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣈⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Pictured above is an ASCII art iamge of the Skyrim logo.
 
 I don't have ascii art so take this:
 Man & girl go out to drive under moonlight. They stop at on at a side of road. He turn to his girl and say: "Baby, I love you very much"
@@ -1327,7 +1328,7 @@ jgs `'-._____.
      \ /
 	 
 Time flies like an arrow,
-Fruit flies like a banana
+Fruit flies like a carrot
 
                _,........__
             ,-'            "`-.
@@ -2841,7 +2842,7 @@ I think we need to shut down!
 Shut down? We've never shut down.
 Shut down honey production!
 Stop making honey!
-Turn your key, sir!
+I need more guacamole. Does anyone have some?
 What do we do now?
 Cannonball!
 We're shutting honey production!
@@ -4314,4 +4315,19 @@ ___..--""                                                    "-..____
 ⣼⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⡟
 ⢸⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⠿⠿⠟⠋⠀
 ⠀⠉⢛⠛⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+       .---.     .---.
+      ( -o- )---( -o- )
+      ;-...-`   `-...-;
+     /                 \
+    /                   \
+   | /_               _\ |
+   \`'.`'"--.....--"'`.'`/
+    \  '.   `._.`   .'  /
+ _.-''.  `-.,,_,,.-`  .''-._
+`--._  `'-.,_____,.-'`  _.--`
+     /                 \
+    /.-'`\   .'.   /`'-.\
+   `      '.'   '.'
 
